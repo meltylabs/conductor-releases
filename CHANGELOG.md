@@ -6,7 +6,7 @@ Conductor now integrates with your GitHub account. Start working on issues in on
 
 <img width="1638" height="1036" alt="CleanShot 2025-07-19 at 09 42 50@2x" src="https://github.com/user-attachments/assets/1541d4ee-8efb-4050-9412-d7d10632b94e" />
 
-<img width="1294" height="940" alt="CleanShot 2025-07-19 at 09 44 23@2x" src="https://github.com/user-attachments/assets/f8f26dab-e23e-4635-af05-4f826c9a5660" />
+<img width="1216" height="860" alt="CleanShot 2025-07-19 at 09 50 26@2x" src="https://github.com/user-attachments/assets/79ec33e1-ce33-4196-885e-e5e016db0949" />
 
 Improvements: 
 

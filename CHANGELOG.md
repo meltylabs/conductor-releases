@@ -1,3 +1,21 @@
+# GitHub Integration
+_0.0.17_
+July 19th, 2025
+
+Conductor now integrates with your GitHub account. Start working on issues in one click, and easily add your private repositories.
+
+<img width="1638" height="1036" alt="CleanShot 2025-07-19 at 09 42 50@2x" src="https://github.com/user-attachments/assets/1541d4ee-8efb-4050-9412-d7d10632b94e" />
+
+<img width="1294" height="940" alt="CleanShot 2025-07-19 at 09 44 23@2x" src="https://github.com/user-attachments/assets/f8f26dab-e23e-4635-af05-4f826c9a5660" />
+
+Improvements: 
+
+- Added system theme
+- Terminal now runs user's shell instead of hardcoded zsh
+- In-app feedback dialog
+- ⌘N to start a new workspace in your current repository
+- Updated home page animation
+
 # Terminal Improvements 
 _0.0.16_  
 July 18th, 2025 

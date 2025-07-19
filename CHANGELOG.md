@@ -10,11 +10,19 @@ Conductor now integrates with your GitHub account. Start working on issues in on
 
 Improvements: 
 
-- Added system theme
-- Terminal now runs user's shell instead of hardcoded zsh
-- In-app feedback dialog
+- Integrate with GitHub
+- Refreshed design of the left sidebar 
+- Terminal processes now use your native shell instead of forcing zsh
+- `Ctrl+D` now force restarts the current terminal process 
+- Added a button to provide feedback in-app 
 - ⌘N to start a new workspace in your current repository
-- Updated home page animation
+- Sleeker home page animation
+- Added system theme
+
+Fixes:
+
+- Fixed the highlight color in the terminal
+- Fixed the right panel closing when dismissing the settings dialog
 
 # Terminal Improvements 
 _0.0.16_  

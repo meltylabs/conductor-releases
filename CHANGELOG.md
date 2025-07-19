@@ -1,5 +1,5 @@
 # GitHub Integration
-_0.0.17_
+_0.0.17_ - _0.0.18_
 July 19th, 2025
 
 Conductor now integrates with your GitHub account. Start working on issues in one click, and easily add your private repositories.

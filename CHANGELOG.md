@@ -1,3 +1,26 @@
+# Miscallenous Improvements 
+_0.0.19_ 
+July 21st, 2025 
+
+Improvements: 
+
+- Unread indicators in the sidebar and Mac Dock now show one notification per workspace to reduce noise
+- Added zoom keyboard shortcuts (`⌘+` to zoom in, `⌘-` to zoom out, `⌘0` to reset zoom)
+- Added a button in the sidebar to access the dashboard
+
+Fixes: 
+
+- Improved the performance of `@` file mentions in large codebases
+- Fixed an issue where the `Compact conversation` button wouldn’t show up when the a workspace reached 100% context
+- Fixed a bug where long branch names would hide the “Archive workspace” button
+- Fixed a bug where trackpads were unable to scroll the repository list in the “Add repository” dialog
+- Fixed a bug where compacting a conversation would show a loading state in all workspaces
+- The feedback dialog now submits on `cmd+enter` instead of `enter`
+
+Misc: 
+
+- Cleaned up presentation of the “Add repository” dialog
+
 # GitHub Integration
 _0.0.17_ - _0.0.18_
 July 19th, 2025

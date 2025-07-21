@@ -1,4 +1,4 @@
-# Miscellanous Improvements 
+# Miscellaneous Improvements 
 _0.0.19_ 
 July 21st, 2025 
 

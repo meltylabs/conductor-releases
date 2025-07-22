@@ -1,3 +1,31 @@
+# Attachments 
+_0.0.20_ 
+July 22nd, 2025 
+
+Conductor now supports attachments! 
+
+<img width="1754" height="478" alt="image" src="https://github.com/user-attachments/assets/73322103-6874-4eac-a2d9-16da5692586e" />
+
+Upload files by pasting (`Cmd+V`), dragging and dropping, or clicking the paperclip icon in the Composer. 
+
+Improvements: 
+
+- The default branch can now be configured per repository
+    - Select a repository in the sidebar to configure its default branch, or use “More Options” when adding a new repository
+- Added an option to open a workspace in Warp
+- Added a button to copy a chat compaction summary
+- Added a list of all in-app shortcuts accessible via `Cmd+/`
+- The archive confirmation dialog now closes immediately when “Archive Anyway” is clicked
+
+Fixes: 
+
+- Optimized the rendering performance of workspaces with long chat histories
+- Fixed a bug where workspace setup scripts wouldn’t run when creating a workspace from a GitHub Issue
+
+Misc: 
+
+- Disabled the “Create PR” button while Claude is sending messages
+
 # Misc Improvements
 _0.0.19_ 
 July 21st, 2025 

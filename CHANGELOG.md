@@ -1,3 +1,19 @@
+# Fine-grained GitHub permissions
+_0.0.21_
+July 22nd, 2025 
+
+You can now give Conductor fine-grained GitHub repository access. You can also choose to skip the GitHub integration and add repositories using your SSH/HTTPs authentication.
+
+
+<img width="1374" height="842" alt="CleanShot 2025-07-22 at 17 53 01@2x" src="https://github.com/user-attachments/assets/3d5d206d-1fac-41ae-a72a-44df85a059ec" />
+
+To manage the GitHub integration, go to settings (`⌘+,`) and click Connect GitHub app:
+
+<img width="1100" height="152" alt="CleanShot 2025-07-22 at 17 54 19@2x" src="https://github.com/user-attachments/assets/19104eed-01e1-46dd-856b-c4632a119d21" />
+
+
+
+
 # Attachments 
 _0.0.20_ 
 July 22nd, 2025 

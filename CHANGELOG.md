@@ -6,7 +6,7 @@ Conductor now supports attachments!
 
 <img width="1754" height="478" alt="image" src="https://github.com/user-attachments/assets/73322103-6874-4eac-a2d9-16da5692586e" />
 
-Upload files by pasting (`Cmd+V`), dragging and dropping, or clicking the paperclip icon in the Composer. 
+Upload files by pasting (`⌘+V`), dragging and dropping, or clicking the paperclip icon in the Composer. 
 
 Improvements: 
 

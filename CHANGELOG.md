@@ -23,9 +23,11 @@ Improvements:
 
 Fixes: 
 
+- Fixed a bug causing GitHub permissions to not fail on push
 - Fixed a bug where archiving a workspace would force you back to the home if you’ve already navigated away
 - Fixed a bug where the Close button would not exit the app
 - Fixed GitHub PRs showing as issues on the home page
+
 
 # Fine-grained GitHub permissions
 _0.0.21_

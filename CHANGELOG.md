@@ -12,7 +12,7 @@ Conductor also now supports message queues! Submit multiple messages and they wi
 
 Improvements: 
 
-- Performance improvements (if Conductor is running slowly for you, please let us know!)
+- Performance improvements (if Conductor is running slowly for you, [please let us know](mailto:founders@melty.sh?subject=Conductor%20perf%20issues)!)
 - Add a setting to customize the auto-compact threshold
 - The `Compact and Continue` error button now re-sends your last message
 - Navigate between workspaces easily with shortcuts (`⌘+1→9`)

@@ -1,3 +1,32 @@
+## MCPs + Message Queues
+_0.1.0_ 
+July 24th, 2025 
+
+MCPs are live in Conductor! Add popular servers in one click from the MCP tab.
+
+<img width="1732" height="450" alt="image" src="https://github.com/user-attachments/assets/9fad1f74-b5fb-4ed2-89cb-3c7bb94d7c0e" />
+
+Conductor also now supports message queues! Submit multiple messages and they will be processed in order. 
+
+<img width="1606" height="778" alt="image" src="https://github.com/user-attachments/assets/5f61cc93-d888-44f0-aaa3-8170a0875bbc" />
+
+Improvements: 
+
+- Performance improvements (if Conductor is running slowly for you, please let us know!)
+- Add a setting to customize the auto-compact threshold
+- The `Compact and Continue` error button now re-sends your last message
+- Navigate between workspaces easily with shortcuts (`⌘+1→9`)
+- Add a setting to change message submit shortcut
+- Keyboard shortcut for archiving (`⌘⇧A`)
+- Redesigned the onboarding experience for new users
+- Bundle size is now 5mb smaller
+
+Fixes: 
+
+- Fixed a bug where archiving a workspace would force you back to the home if you’ve already navigated away
+- Fixed a bug where the Close button would not exit the app
+- Fixed GitHub PRs showing as issues on the home page
+
 # Fine-grained GitHub permissions
 _0.0.21_
 July 22nd, 2025 

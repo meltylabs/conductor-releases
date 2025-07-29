@@ -33,7 +33,7 @@ Fixes:
 
 Misc: 
 
-- Updated the shortcut to cancel a message from ``⌘Del` to `esc`.
+- Updated the shortcut to cancel a message from `⌘+Del` to `esc`.
 - Show minutes on the loading indicator
 
 ## Slash Commands + Custom Providers 

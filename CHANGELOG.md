@@ -2,22 +2,22 @@
 _0.2.0_
 July 29th, 2025
 
-Conductor now supports local repositories! You can now add a new repository from your local filesystem, GitHub, or any Git URL.
+Conductor now supports local repositories! You can add a new repository from your local filesystem, GitHub, or any Git URL.
 
 <img width="1234" height="748" alt="CleanShot 2025-07-29 at 21 46 34@2x" src="https://github.com/user-attachments/assets/7d7b21c1-3b16-4667-bbec-075d429da05b" />
 
-We’ve also added [agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents). Conductor can now call custom specialized agents, code reviewers and test writers. Create your first agent in Settings → Agents.  
+We’ve also added [agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents). Conductor can now call custom agents to perform specialized tasks like code review and test automation. Create one in Settings → Agents.  
 
 <img width="1690" height="1030" alt="CleanShot 2025-07-29 at 23 12 10@2x" src="https://github.com/user-attachments/assets/7ea6bce3-55b9-4fdd-a38f-7c145a014059" />
 
 Improvements: 
 
 - Revamped repository page
-- Add `/compact` and `/clear` commands
+- Added `/compact` and `/clear` commands
 - Model configurations are now stored per workspace instead of globally
 - Simplified API key configuration and added HTTP proxy support
-- Add copy button to all chat messages
-- Repository is highlighted in sidebar when you’re on repo page
+- Added copy button to all chat messages
+- Repositories are now highlighted when selected in the sidebar 
 - URLs are now clickable in terminal output
 
 Fixes:
@@ -28,16 +28,13 @@ Fixes:
 - Composer buttons are now accessible while sending queued messages
 - Fixed Bash commands rendering overlapping content
 - Several stability improvements to sending and persisting user messages
-- Always use user’s local GitHub authentication
+- Always use local Git authentication 
 - Fixed a bug where workspaces couldn’t be archived due to PATH issues
 
 Misc: 
 
 - Updated the shortcut to cancel a message from ``⌘Del` to `esc`.
 - Show minutes on the loading indicator
-
-
-
 
 ## Slash Commands + Custom Providers 
 _0.1.1_ 

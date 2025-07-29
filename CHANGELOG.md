@@ -4,11 +4,11 @@ July 29th, 2025
 
 Conductor now supports local repositories! You can now add a new repository from your local filesystem, GitHub, or any Git URL.
 
-![CleanShot 2025-07-29 at 21.46.34@2x.png](attachment:05d21b9e-be20-4829-afac-c8700457b228:CleanShot_2025-07-29_at_21.46.342x.png)
+<img width="1234" height="748" alt="CleanShot 2025-07-29 at 21 46 34@2x" src="https://github.com/user-attachments/assets/7d7b21c1-3b16-4667-bbec-075d429da05b" />
 
 We’ve also added [agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents). Conductor can now call custom specialized agents, code reviewers and test writers. Create your first agent in Settings → Agents.  
 
-![CleanShot 2025-07-29 at 23.12.10@2x.png](attachment:bcd7e4fa-3d22-426b-880a-9afe7cf59691:CleanShot_2025-07-29_at_23.12.102x.png)
+<img width="1690" height="1030" alt="CleanShot 2025-07-29 at 23 12 10@2x" src="https://github.com/user-attachments/assets/7ea6bce3-55b9-4fdd-a38f-7c145a014059" />
 
 Improvements: 
 

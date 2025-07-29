@@ -1,3 +1,44 @@
+## Local Repositories + Agents
+_0.2.0_
+July 29th, 2025
+
+Conductor now supports local repositories! You can now add a new repository from your local filesystem, GitHub, or any Git URL.
+
+![CleanShot 2025-07-29 at 21.46.34@2x.png](attachment:05d21b9e-be20-4829-afac-c8700457b228:CleanShot_2025-07-29_at_21.46.342x.png)
+
+We’ve also added [agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents). Conductor can now call custom specialized agents, code reviewers and test writers. Create your first agent in Settings → Agents.  
+
+![CleanShot 2025-07-29 at 23.12.10@2x.png](attachment:bcd7e4fa-3d22-426b-880a-9afe7cf59691:CleanShot_2025-07-29_at_23.12.102x.png)
+
+Improvements: 
+
+- Revamped repository page
+- Add `/compact` and `/clear` commands
+- Model configurations are now stored per workspace instead of globally
+- Simplified API key configuration and added HTTP proxy support
+- Add copy button to all chat messages
+- Repository is highlighted in sidebar when you’re on repo page
+- URLs are now clickable in terminal output
+
+Fixes:
+
+- Fixed a bug where Conductor wouldn’t check for auto-compaction between each message in the queue
+- Fixed a bug where cancelling would leave queued messages in a bad state
+- Fixed a bug where session notifications would be sent while there are queued messages
+- Composer buttons are now accessible while sending queued messages
+- Fixed Bash commands rendering overlapping content
+- Several stability improvements to sending and persisting user messages
+- Always use user’s local GitHub authentication
+- Fixed a bug where workspaces couldn’t be archived due to PATH issues
+
+Misc: 
+
+- Updated the shortcut to cancel a message from ``⌘Del` to `esc`.
+- Show minutes on the loading indicator
+
+
+
+
 ## Slash Commands + Custom Providers 
 _0.1.1_ 
 July 25th, 2025 

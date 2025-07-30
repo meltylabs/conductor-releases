@@ -1,5 +1,5 @@
 ## Local Repositories + Agents
-_0.2.0_
+_0.2.0_ - _0.2.1_ 
 July 29th, 2025
 
 Conductor now supports local repositories! You can add a new repository from your local filesystem, GitHub, or any Git URL.

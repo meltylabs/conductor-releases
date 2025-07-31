@@ -1,6 +1,14 @@
-## Papercuts
+## Lots of bugfixes
+_0.2.2_ 
+July 31th, 2025
 
-You can now `@` agents to explicitly call them. We also fixed lots of bugs.
+Claude can be verbose and include a ton of messages in its response. We're experimenting with automatically collapsing Claude's response. Let us know what you think!
+
+<img width="1522" height="770" alt="CleanShot 2025-07-31 at 22 53 50@2x" src="https://github.com/user-attachments/assets/78e57a8b-f6c3-4067-95ea-936092763df4" />
+
+Long chats should also now be much more performant. 
+
+You can also now `@` agents to explicitly call them. 
 
 <img width="624" height="358" alt="CleanShot 2025-07-31 at 22 52 02@2x" src="https://github.com/user-attachments/assets/e683aa0c-f02a-4325-9f69-26fbfa7925cd" />
 

@@ -1,4 +1,4 @@
-## Lots of bugfixes
+## Lots of Bugfixes
 _0.2.2_ 
 July 31th, 2025
 

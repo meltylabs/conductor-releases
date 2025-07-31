@@ -2,9 +2,7 @@
 _0.2.2_ 
 July 31th, 2025
 
-We've fixed a lot of bugs.
-
-We're experimenting with automatically collapsing Claude's response. Let us know what you think!
+We're experimenting with automatically collapsing Claude's responses. 
 
 <img width="1522" height="770" alt="CleanShot 2025-07-31 at 22 53 50@2x" src="https://github.com/user-attachments/assets/78e57a8b-f6c3-4067-95ea-936092763df4" />
 

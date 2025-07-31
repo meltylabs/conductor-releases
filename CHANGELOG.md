@@ -1,3 +1,37 @@
+## Papercuts
+
+You can now `@` agents to explicitly call them. We also fixed lots of bugs.
+
+<img width="624" height="358" alt="CleanShot 2025-07-31 at 22 52 02@2x" src="https://github.com/user-attachments/assets/e683aa0c-f02a-4325-9f69-26fbfa7925cd" />
+
+Improvements: 
+
+- Performance improvements on long chats
+- Long messages from Claude Code now collapse automatically
+- Show when a workspace is compacting in the sidebar
+- Added syntax highlighting for setup scripts
+- Right click to mark workspace as unread
+- `@` Agents to explicitly call them
+
+Fixes:
+
+- Long chats are faster to render
+- Fixed a bug where archiving workspaces would fail unrecoverably
+- Fixed an issue where hover states became invisible in dark mode
+- Fixed a bug where you could add the same directory twice
+- We now validate that the chosen directory exists before cloning a repo
+- Fixed typography discrepancies throughout the UI
+- Fixed an issue that could lead to a double slash // in the clone target path
+- Fixed a missing space between tool names and the files they affected
+- Fixed a bug where system theme changes would not be recognized by Conductor
+
+Misc: 
+
+- Updated the command menu to include recently added features
+- Added Windsurf to the “Open In” menu
+- Added support for `.xlsx` attachments
+
+
 ## Local Repositories + Agents
 _0.2.0_ - _0.2.1_ 
 July 29th, 2025

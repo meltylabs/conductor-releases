@@ -1,10 +1,11 @@
-# Bufxies 
-_0.2.4
+# Bugfixes Continued
+_0.2.4_
 August 1st, 2025 
 
 Fixes: 
 
-- Fixed a bug where certain messages would appear out of order 
+- Fixed a bug where certain messages would appear out of order
+- Fixed a bug where Claude would make changes outside the worktree directory
 
 # Bugfixes
 _0.2.2_ - _0.2.3_

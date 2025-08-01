@@ -1,5 +1,5 @@
 ## Bugfixes
-_0.2.2_ 
+_0.2.2_ - _0.2.3_
 July 31th, 2025
 
 We're experimenting with automatically collapsing Claude's responses. Long chats should also now be much more performant. 
@@ -37,6 +37,10 @@ Misc:
 - Added Windsurf to the “Open In” menu
 - Added support for `.xlsx` attachments
 
+New in 0.2.3:
+
+- Agents in Conductor can now help the user out with understanding Conductor’s workspace system, and will follow the system better.
+- This will help prevent an occasional issue where Claude would mistakenly edit files in the root directory.
 
 ## Local Repositories + Agents
 _0.2.0_ - _0.2.1_ 

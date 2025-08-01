@@ -1,4 +1,4 @@
-## Bugfixes
+# Bugfixes
 _0.2.2_ - _0.2.3_
 July 31th, 2025
 
@@ -42,7 +42,7 @@ New in 0.2.3:
 - Agents in Conductor can now help the user out with understanding Conductor’s workspace system, and will follow the system better.
 - This will help prevent an occasional issue where Claude would mistakenly edit files in the root directory.
 
-## Local Repositories + Agents
+# Local Repositories + Agents
 _0.2.0_ - _0.2.1_ 
 July 29th, 2025
 
@@ -80,7 +80,7 @@ Misc:
 - Updated the shortcut to cancel a message from `⌘+Del` to `esc`.
 - Show minutes on the loading indicator
 
-## Slash Commands + Custom Providers 
+# Slash Commands + Custom Providers 
 _0.1.1_ 
 July 25th, 2025 
 
@@ -107,7 +107,7 @@ Fixes:
 - Fixed certain tool outputs not being scrollable
 - Fixed a bug where the “system” theme was not being respected throughout the app
 
-## MCPs + Message Queues
+# MCPs + Message Queues
 _0.1.0_ 
 July 24th, 2025 
 

@@ -1,3 +1,11 @@
+# Bufxies 
+_0.2.4
+August 1st, 2025 
+
+Fixes: 
+
+- Fixed a bug where certain messages would appear out of order 
+
 # Bugfixes
 _0.2.2_ - _0.2.3_
 July 31th, 2025

@@ -1,14 +1,5 @@
-# Bugfixes Continued
-_0.2.4_
-August 1st, 2025 
-
-Fixes: 
-
-- Fixed a bug where certain messages would appear out of order
-- Fixed a bug where Claude would make changes outside the worktree directory
-
 # Bugfixes
-_0.2.2_ - _0.2.3_
+_0.2.2_ - _0.2.4_
 July 31th, 2025
 
 We're experimenting with automatically collapsing Claude's responses. Long chats should also now be much more performant. 
@@ -50,6 +41,10 @@ New in 0.2.3:
 
 - Agents in Conductor can now help the user out with understanding Conductor’s workspace system, and will follow the system better.
 - This will help prevent an occasional issue where Claude would mistakenly edit files in the root directory.
+
+New in 0.2.4:
+
+- Fixed a bug where certain messages would appear out of order
 
 # Local Repositories + Agents
 _0.2.0_ - _0.2.1_ 

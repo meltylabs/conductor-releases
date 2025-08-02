@@ -2,22 +2,22 @@
 _0.3.0_
 August 2nd, 2025
 
-We’ve updated the sidebar to contain up-to-date Git info about your workspace! 
+You can now see your up-to-date git status directly in the sidebar!
 
 <img width="3184" height="2050" alt="CleanShot 2025-08-01 at 19 50 38@2x" src="https://github.com/user-attachments/assets/772fdf5a-b276-4c21-8e4d-6d65a3a31cb9" />
 
-We’ve also refreshed the Git diff dialog with better code diffs and the ability to filter by commit: 
+We've also improved diff rendering and added an option to filter by commit: 
 
 <img width="2872" height="1852" alt="CleanShot 2025-08-01 at 19 51 21@2x" src="https://github.com/user-attachments/assets/b6da7db7-94af-40b9-8067-d1cd82bdeb3b" />
 
-Improvements: 
+Other improvements: 
 
-- Resizing of the right panel now persists across workspaces
-- Cleaned up the UI for adding new repositories
-- Added drag and drop support for adding new repos on the home page
+- When Claude returns an error, there's a new “Retry Message” button
+- You can now collapse repos in the sidebar
+- You can now drag-and-drop to add a new repo on the home page
+- When you resize the right sidebar panels, Conductor will now remember your settings
 - Conductor will now auto-detect your repository’s default branch when you first clone it
-- Added a “Retry Message” button when the AI returns an error
-- Repos are now collapsible in the sidebar
+- Cleaned up the UI for adding new repositories
 - Added keyboard shortcuts for toggling the theme (⌘⇧T) and sending feedback (⌘⇧F)
 
 Fixes: 

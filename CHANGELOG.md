@@ -1,3 +1,35 @@
+# Git Diff View
+_0.3.0_
+August 2nd, 2025
+
+We’ve updated the sidebar to contain up-to-date Git info about your workspace! 
+
+<img width="3184" height="2050" alt="CleanShot 2025-08-01 at 19 50 38@2x" src="https://github.com/user-attachments/assets/772fdf5a-b276-4c21-8e4d-6d65a3a31cb9" />
+
+We’ve also refreshed the Git diff dialog with better code diffs and the ability to filter by commit: 
+
+<img width="2872" height="1852" alt="CleanShot 2025-08-01 at 19 51 21@2x" src="https://github.com/user-attachments/assets/b6da7db7-94af-40b9-8067-d1cd82bdeb3b" />
+
+Improvements: 
+
+- Resizing of the right panel now persists across workspaces
+- Cleaned up the UI for adding new repositories
+- Added drag and drop support for adding new repos on the home page
+- Conductor will now auto-detect your repository’s default branch when you first clone it
+- Added a “Retry Message” button when the AI returns an error
+- Repos are now collapsible in the sidebar
+- Added keyboard shortcuts for toggling the theme (⌘⇧T) and sending feedback (⌘⇧F)
+
+Fixes: 
+
+- Fixed a bug where `@` autocomplete suggestions would be hidden behind suggested git actions
+- Fixed a styling issue with hover state in the sidebar
+
+Misc:
+
+- We’ve removed the “% context used” indicator because the numbers Anthropic gives us don’t let us estimate this reliably
+- We have a new email address: [humans@conductor.build](mailto:humans@conductor.build). The feedback, bug reports, and suggestions have been super helpful—please keep them coming!
+
 # Bugfixes
 _0.2.2_ - _0.2.4_
 July 31th, 2025

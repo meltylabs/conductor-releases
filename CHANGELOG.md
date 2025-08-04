@@ -1,3 +1,19 @@
+# Bug Fixes! 
+_0.3.1_ 
+August 4th, 2025 
+
+Improvements: 
+
+- When you add a new file, it will now show up in the `@` autocomplete list
+- Added a “scroll to bottom” button in long workspaces
+
+Fixes: 
+
+- Fixed a bug where pressing `escape` to close a modal could cancel the current chat session
+- Fixed a bug where clicking a commit shown in the chat would not open it in the git diff dialog
+- Fixed a bug where stats would not display correctly for commits in the git diff dialog
+- Fixed spacing in the auto-compact warning message
+
 # Git Diff View
 _0.3.0_
 August 2nd, 2025

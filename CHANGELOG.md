@@ -15,7 +15,6 @@ Improvements:
 Fixes: 
 
 - Fixed a bug where the “Add Repository” popover was not visible on some screens
-- Fixed several bugs related to editing a repository’s setup script
 
 Misc: 
 

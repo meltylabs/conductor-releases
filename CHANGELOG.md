@@ -1,3 +1,27 @@
+# Opus 4.1 
+_0.3.2_
+August 5th, 2025 
+
+Claude Opus 4.1 is now available in Conductor! 
+
+<img width="1200" height="632" alt="image" src="https://github.com/user-attachments/assets/762894c3-a0e6-4b5a-9685-e9047d365cc8" />
+
+Improvements: 
+
+- Added drag and drop to reorder repositories in the left sidebar
+- Added PyCharm as an “Open In IDE” option
+- Conductor now remembers where you last cloned a repo and defaults to that location for new clones. Also, the initial default path is now `~/conductor`.
+
+Fixes: 
+
+- Fixed a bug where the “Add Repository” popover was not visible on some screens
+- Fixed several bugs related to editing a repository’s setup script
+
+Misc: 
+
+- Improved error message when failing to authenticate with `gh`
+- Added the full URL that was fetched to the top of the WebFetch tool call
+
 # Bug Fixes! 
 _0.3.1_ 
 August 4th, 2025 

@@ -1,3 +1,28 @@
+# GPT-5 
+_0.5.0_ 
+August 7th, 2025 
+
+GPT-5 is live in Conductor! 
+
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/d39527bd-9a7b-4560-bca0-c1454708c0f1" />
+
+To enable GPT-5, go to Settings → Provider → Select OpenAI as the provider, then add your API key. 
+
+We’ve also refreshed the design of the sidebar! Each workspace now includes relevant Git status. 
+
+<img width="662" height="1834" alt="no-bg-CleanShot 2025-08-07 at 09 39 06@2x" src="https://github.com/user-attachments/assets/ec83a39f-e559-4bd3-9f8b-a7c7b16b3ad9" />
+
+Improvements: 
+
+- Added IntelliJ as an “Open In IDE” option
+
+Fixes: 
+
+- Made several performance improvements to the main chat window to reduce lag
+- Fixed the repository click area in the sidebar
+- Fixed several performance issues with the git diff dialog
+- Fixed the “Add thinking” popover from clipping off screen for some users
+
 # Opus 4.1 
 _0.3.2_
 August 5th, 2025 

@@ -6,6 +6,10 @@ We’ve overhauled Conductor’s design. It’s now sleeker, more intuitive, and
 
 <img width="2972" height="1758" alt="CleanShot 2025-08-09 at 13 49 21@2x" src="https://github.com/user-attachments/assets/036c1352-3d84-4989-95df-91edd3a22347" />
 
+The sidebar is now easier to parse. Get a clear view of what your agents are working on at a glance.
+
+<img width="480" height="1282" alt="CleanShot 2025-08-09 at 14 23 55@2x" src="https://github.com/user-attachments/assets/7da2fa87-22ad-4287-8dc6-3a194101bdef" />
+
 Messages display more consistently and are easier to read. We auto-collapse Claude’s tools, but you can always peek under the hood.
 
 <img width="1092" height="762" alt="CleanShot 2025-08-09 at 14 02 32@2x" src="https://github.com/user-attachments/assets/95f43b66-ca6b-4457-b34c-b98f244a25e6" />

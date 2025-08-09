@@ -1,4 +1,36 @@
+# A New Look
+_0.6.0_ 
+August 9th, 2025 
+
+We’ve overhauled Conductor’s design. It’s now sleeker, more intuitive, and feels right at home on your Mac.
+
+<img width="2972" height="1758" alt="CleanShot 2025-08-09 at 13 49 21@2x" src="https://github.com/user-attachments/assets/036c1352-3d84-4989-95df-91edd3a22347" />
+
+Messages display more consistently and are easier to read. We auto-collapse Claude’s tools, but you can always peek under the hood.
+
+<img width="1092" height="762" alt="CleanShot 2025-08-09 at 14 02 32@2x" src="https://github.com/user-attachments/assets/95f43b66-ca6b-4457-b34c-b98f244a25e6" />
+
+We’ve also redesigned the repository details page and added a configurable archive script:
+
+<img width="3090" height="1890" alt="CleanShot 2025-08-09 at 14 07 10@2x" src="https://github.com/user-attachments/assets/3bc81c96-e0a7-479a-96e7-e0c82b6599f0" />
+
+And you can now make multiple tabs in your terminal.
+
+<img width="824" height="796" alt="CleanShot 2025-08-09 at 14 06 11@2x" src="https://github.com/user-attachments/assets/d090d73b-d4d1-47ab-b011-7b4144b63e40" />
+
+Improvements: 
+
+- Support for multiple terminal tabs
+- Added optional archive script
+- Added a max height for composer
+- Support for .log file attachments
+
+Fixes:
+
+- Fixed issue where GitHub repos failed to load
+
 # GPT-5 
+
 _0.5.0_ 
 August 7th, 2025 
 

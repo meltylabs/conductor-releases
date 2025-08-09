@@ -12,7 +12,7 @@ Messages display more consistently and are easier to read. We auto-collapse Clau
 
 We’ve also redesigned the repository details page and added a configurable archive script:
 
-<img width="3090" height="1890" alt="CleanShot 2025-08-09 at 14 07 10@2x" src="https://github.com/user-attachments/assets/3bc81c96-e0a7-479a-96e7-e0c82b6599f0" />
+<img width="2926" height="1728" alt="CleanShot 2025-08-09 at 14 22 31@2x" src="https://github.com/user-attachments/assets/eb957581-1633-4929-8649-c193f77d7100" />
 
 And you can now make multiple tabs in your terminal.
 

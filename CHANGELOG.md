@@ -29,7 +29,7 @@ Improvements:
 - Added a max height for composer
 - Support for .log file attachments
 - Added JetBrains Rider to the "Open" menu
-- New workspaces are prefixed with your git username 
+- New workspaces are now prefixed with your git username instead of `conductor/`
 
 Fixes:
 

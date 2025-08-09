@@ -1,4 +1,4 @@
-# GPT-5 
+# GPT-5 - Test Update 1
 _0.5.0_ 
 August 7th, 2025 
 
@@ -14,14 +14,16 @@ We’ve also refreshed the design of the sidebar! Each workspace now includes re
 
 Improvements: 
 
-- Added IntelliJ as an “Open In IDE” option
+- Added IntelliJ as an "Open In IDE" option
+- Test change 2: Added support for Visual Studio integration
 
 Fixes: 
 
 - Made several performance improvements to the main chat window to reduce lag
 - Fixed the repository click area in the sidebar
 - Fixed several performance issues with the git diff dialog
-- Fixed the “Add thinking” popover from clipping off screen for some users
+- Fixed the "Add thinking" popover from clipping off screen for some users
+- Test change 3: Improved memory management for large repositories
 
 # Opus 4.1 
 _0.3.2_

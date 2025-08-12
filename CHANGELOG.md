@@ -1,3 +1,31 @@
+# Bug Fixes! 
+_0.6.1_ 
+August 12th, 2025 
+
+Improvements: 
+
+- Added a sound effect that plays on workspace completion
+- Added special styling for context7 and Linear MCPs
+- Added an option to view only uncommitted changes in the git diff dialog
+- Added the “X” icon to all terminals so they’re easier to quit
+
+Fixes:
+
+- Fixed a bug where text could be inadvertently selected in the sidebar
+- Fixed the system theme selection not being respected
+- Fixed a bug where the model selection popover could go off screen
+- Fixed a bug where the educational tooltip would appear briefly on startup for all users
+- Fixed a resource leak when closing terminal tabs
+- Fixed a case where Claude Code could make edits outside of your workspace’s directory
+- Fixed a bug where typing a space would close the file suggestions popover in the composer
+- Fixed an overflow issue in the “Archive Anyway?” dialog
+- Disabled Git stats from updating while a workspace is archiving
+- Fixed a bug where the “Compact and Retry” button would re-send the incorrect message
+
+Misc: 
+
+- Claude Code is now aware of your repository’s default branch
+
 # A New Look
 _0.6.0_ 
 August 9th, 2025 

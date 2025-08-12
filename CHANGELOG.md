@@ -1,5 +1,5 @@
 # Bug Fixes! 
-_0.6.1_ 
+_0.6.1_ - _0.6.2_
 August 12th, 2025 
 
 Improvements: 
@@ -25,6 +25,11 @@ Fixes:
 Misc: 
 
 - Claude Code is now aware of your repository’s default branch
+
+New in 0.6.2:
+
+- Fixed a bug causing new workspaces to fail
+- Improved repository details page
 
 # A New Look
 _0.6.0_ 

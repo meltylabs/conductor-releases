@@ -10,7 +10,7 @@ After
 
 <img width="748" height="106" alt="CleanShot 2025-08-14 at 13 40 03@2x" src="https://github.com/user-attachments/assets/fd98b248-2271-445a-8f45-187c368f765f" />
 
-We've also standardize our color palette for rendering code diffs. 
+We've also standardized our color palette for rendering code diffs.
 
 <img width="1290" height="816" alt="CleanShot 2025-08-14 at 14 51 20@2x" src="https://github.com/user-attachments/assets/968733c0-f68e-4016-a688-190864c2d901" />
 

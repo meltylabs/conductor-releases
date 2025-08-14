@@ -14,6 +14,7 @@ After
 Improvements: 
 
 - Added a close button to the git diff dialog
+- Consistent syntax highlighting colors for diffs
 - New sound effect: Choo-Choo!
 
 Fixes: 

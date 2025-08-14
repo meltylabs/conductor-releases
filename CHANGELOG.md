@@ -1,3 +1,32 @@
+# We no longer burn your CPU (hopefully)
+_0.7.0_
+August 14th, 2025 
+
+Before
+
+<img width="756" height="108" alt="CleanShot 2025-08-14 at 13 39 03@2x" src="https://github.com/user-attachments/assets/e81fcc29-eb0a-4f05-b628-826d8fa6db07" />
+
+After
+
+<img width="748" height="106" alt="CleanShot 2025-08-14 at 13 40 03@2x" src="https://github.com/user-attachments/assets/fd98b248-2271-445a-8f45-187c368f765f" />
+
+
+Improvements: 
+
+- Added a close button to the git diff dialog
+- New sound effect: Choo-Choo!
+
+Fixes: 
+
+- Fixed a resource leak that would happen when a terminal shut down
+
+Misc: 
+
+- Clicking a file name in the chat will now open the file in your preferred editor
+- Improved error message when the same repository is imported twice to Conductor
+- Improved error message for repositories that don’t have a remote named `origin`
+
+
 # Bug Fixes! 
 _0.6.1_ - _0.6.2_
 August 12th, 2025 

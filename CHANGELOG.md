@@ -1,3 +1,31 @@
+# Add terminal context to chat
+_0.7.2_
+August 19th, 2025 
+
+You can now send terminal context to chat by highlighting output and ⌘L to add it to chat. 
+
+Also, creating a workspace is now much faster.
+
+<img width="1474" height="686" alt="CleanShot 2025-08-18 at 11 38 01@2x" src="https://github.com/user-attachments/assets/a87ce9aa-0cc1-4d34-a556-7ed36792a46a" />
+
+Improvements: 
+
+- Select text in terminal and ⌘L to send it to chat
+- Standardized button styling across the app
+- Workspaces initialize faster
+- Clicking a file in diff panel now auto-scrolls to the diff
+- There’s now a … icon in the sidebar that points to the repository settings page
+- Added JetBrains to Open In button
+- ⌘W to close a focused terminal window
+
+Fixes:
+
+- Auto-scroll to bottom when switching workspaces
+- Fixed logo background color on login page
+- Fixed an issue with `@` file picker positioning
+- Fixed an issue where `@` file picker highlights wouldn’t scroll with the text
+- Fixed an issue where some items wouldn’t appear in command palette search results
+
 # We no longer burn your CPU (hopefully)
 _0.7.0_ - 0.7.1
 August 14th, 2025 

@@ -10,21 +10,21 @@ Also, creating a workspace is now much faster.
 
 Improvements: 
 
-- Select text in terminal and ⌘L to send it to chat
-- Standardized button styling across the app
-- Workspaces initialize faster
-- Clicking a file in diff panel now auto-scrolls to the diff
+- Select text in terminal and press ⌘L to send it to chat
+- Workspace creation is faster
+- Clicking a file in the diff panel now auto-scrolls to the diff
+- You can now press ⌘W to close a focused terminal window
+- Button styling is more consistent throughout the app
 - There’s now a … icon in the sidebar that points to the repository settings page
-- Added JetBrains to Open In button
-- ⌘W to close a focused terminal window
+- Added more apps to the Open In button
 
 Fixes:
 
-- Auto-scroll to bottom when switching workspaces
-- Fixed logo background color on login page
-- Fixed an issue with `@` file picker positioning
+- Fixed an issue with positioning of the `@` file picker
 - Fixed an issue where `@` file picker highlights wouldn’t scroll with the text
 - Fixed an issue where some items wouldn’t appear in command palette search results
+- Fixed an issue with scroll-to-bottom when switching workspaces
+- Fixed the background color of the Conductor logo on the login page
 
 # We no longer burn your CPU (hopefully)
 _0.7.0_ - 0.7.1

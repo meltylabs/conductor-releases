@@ -1,3 +1,23 @@
+# Plan Mode
+
+<img width="1174" height="334" alt="image" src="https://github.com/user-attachments/assets/08a3e637-9c21-403a-b523-b610328310ba" />
+
+Plan mode (⌘P) tells the AI to make a plan before editing files.
+
+Improvements: 
+
+- ⌘O to open a repository from the repository page
+
+Fixes: 
+
+- Fixed a bug where the `@` file picker wouldn’t populate in new workspaces
+- The loading indicator no longer jumps around in the chat
+- Fixed a bug where the git panel and diff dialog used different sort orders for displaying files
+
+Misc: 
+
+- Feedback dialog now supports image uploads
+
 # Add terminal context to chat
 _0.7.2_
 August 19th, 2025 

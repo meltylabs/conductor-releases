@@ -1,4 +1,40 @@
+# Integrate with Linear, Faster Claude, Big Terminal Mode
+_0.8.0_
+August 25th, 2025 
+
+Introducing the Dispatcher, a new way to create workspaces. You can now choose a branch name when creating a new workspaces, or create a new workspace from one of your Linear issues.
+
+<img width="1324" height="962" alt="image" src="https://github.com/user-attachments/assets/b3dac156-2096-4c38-af2c-8e31a1aed87f" />
+
+We’ve also added a new Auto mode, where Opus plans and Sonnet implements.
+
+<img width="572" height="390" alt="image" src="https://github.com/user-attachments/assets/4a6cf899-4093-4f41-ab9c-cc589ab54dac" />
+
+For CLI fans, we’ve added Big Terminal Mode™. Go to settings → Big Terminal Mode to change the center pane to a terminal.
+
+<img width="2048" height="1337" alt="image" src="https://github.com/user-attachments/assets/82e50dac-1129-42b3-82f5-81cd837880a0" />
+
+We’ve made some performance improvements. The app should run faster overall, and Claude will respond a few seconds faster to every message.
+
+Improvements: 
+
+- Opus plan mode
+- ⌘⇧[1-5] keyboard shortcut to change terminal tabs
+- ⌘W to close focused terminal tab
+- ⌘T to create a new terminal tab when focused on the terminal
+- Refined tooltip + font rendering
+- ⇧Tab to toggle plan mode (replacing ⌘P)
+- Big terminal mode
+- Open in XCode
+
+Fixes: 
+
+- Border styling
+- Attachments no longer included in Create PR message
+
 # Plan Mode
+_0.7.3_
+August 22nd, 2025 
 
 <img width="1174" height="334" alt="image" src="https://github.com/user-attachments/assets/08a3e637-9c21-403a-b523-b610328310ba" />
 

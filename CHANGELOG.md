@@ -1,4 +1,4 @@
-# Integrate with Linear, Faster Claude, Big Terminal Mode
+# Integrate with Linear, Faster Claude
 _0.8.0_
 August 25th, 2025 
 
@@ -10,7 +10,7 @@ We’ve also added a new Auto mode, where Opus plans and Sonnet implements.
 
 <img width="572" height="390" alt="image" src="https://github.com/user-attachments/assets/4a6cf899-4093-4f41-ab9c-cc589ab54dac" />
 
-For CLI fans, we’ve added Big Terminal Mode™. Go to settings → Big Terminal Mode to change the center pane to a terminal.
+For CLI fans, we’ve added Big Terminal Mode™. Go to settings → Big Terminal Mode to change the center pane to a terminal. (Warning: not for the faint of heart. This will replace the chat interface!)
 
 <img width="2048" height="1337" alt="image" src="https://github.com/user-attachments/assets/82e50dac-1129-42b3-82f5-81cd837880a0" />
 

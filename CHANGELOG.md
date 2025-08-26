@@ -1,3 +1,24 @@
+# Suggested Git Actions 
+_0.8.1_ 
+August 25th, 2025 
+
+Conductor now recommends each step on the way to merging your PR. Click the button in the top right to take the next action.
+
+<img width="1250" height="1006" alt="image" src="https://github.com/user-attachments/assets/39c8081c-9827-4e2d-ad73-63eab3c81016" />
+
+Improvements: 
+
+- Auto focus the terminal when opening and closing tabs
+- Updated font weights and styles
+- Add Sublime Text to the “Open In” menu
+
+Fixes: 
+
+- Show the correct creation time for workspaces in the sidebar
+- Better performance when fetching Linear issues
+- Switching between custom providers in a workspace is more reliable
+- Updated the compact icon used in the chat 
+
 # Integrate with Linear, Faster Claude
 _0.8.0_
 August 25th, 2025 

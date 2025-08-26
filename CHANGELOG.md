@@ -5,7 +5,7 @@ August 26th, 2025
 Improvements: 
 
 - Linear issues are now sorted by status
-- Searched Linear issues are now filtered to teams you belong to 
+- Searched Linear issues are now filtered by the teams you belong to 
 - Reduced letter spacing for smaller text sizes
 - Increased the spacing of the git panel title 
 

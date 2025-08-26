@@ -1,3 +1,29 @@
+# Performance Improvements 
+_0.8.2_ 
+August 26th, 2025 
+
+Improvements: 
+
+- Linear issues are now sorted by status
+- Searched Linear issues are now filtered to teams you belong to 
+- Reduced letter spacing for smaller text sizes
+- Increased the spacing of the git panel title 
+
+Fixes: 
+
+- Fixed a bug where workspaces would fail to load and crash the app if the MultiEdit write tool had errors
+- Fixed a bug where Bash tool calls could not be expanded
+- Fixed a bug where the Read tool would show “Read 0 lines"
+- Fixed part of the composer being unclickable 
+- Fixed part of the terminal being unclickable 
+- Fixed a performance issue in the git diff dialog that would crash the app
+- Fixed a bug where the “Merge” button was inaccurately showing for GitHub repositories with multiple CI checks
+
+Misc: 
+
+- Increased the minimum width of the right sidebar
+- cmd+A will no longer incorrectly select all of the visible text in the app
+
 # Suggested Git Actions 
 _0.8.1_ 
 August 25th, 2025 

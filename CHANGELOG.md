@@ -1,5 +1,5 @@
 # Performance Improvements 
-_0.8.2_ 
+_0.8.2_ - _0.8.3_
 August 26th, 2025 
 
 Improvements: 
@@ -23,6 +23,10 @@ Misc:
 
 - Increased the minimum width of the right sidebar
 - cmd+A will no longer incorrectly select all of the visible text in the app
+
+New in 0.8.3:
+
+- Support for slashes in Linear branch names
 
 # Suggested Git Actions 
 _0.8.1_ 

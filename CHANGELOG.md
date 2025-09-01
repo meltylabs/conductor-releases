@@ -1,5 +1,5 @@
 _0.9.0_
-# Run script, Hooks, and custom fonts
+# Run script, hooks, and custom fonts
 Sept 1st, 2025
 
 Add a run script to create a one-click shortcut (or ⌘R) to your tests or development server.

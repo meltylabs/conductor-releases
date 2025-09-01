@@ -1,3 +1,51 @@
+_0.9.0_
+# Run script, Hooks, and custom fonts
+Sept 1st, 2025
+
+Add a run script to create a one-click shortcut (or ⌘R) to your tests or development server.
+
+<img width="914" height="892" alt="image" src="https://github.com/user-attachments/assets/3869a0a7-535f-49d8-b00c-8e121893f11c" />
+
+Project level slash commands and agents are now usable in Conductor! 
+
+<img width="502" height="566" alt="image" src="https://github.com/user-attachments/assets/44a72d5c-df75-4c9f-80ef-31a9ea6e320e" />
+
+Global hooks and memory are now configurable in Conductor! 
+
+<img width="1530" height="1394" alt="image" src="https://github.com/user-attachments/assets/6868d227-ffcf-459d-a637-ae87b6accec0" />
+
+You can now set a custom terminal font in settings! 
+
+<img width="1664" height="1526" alt="image" src="https://github.com/user-attachments/assets/f5303c5c-14fa-4a48-b61c-cd91e59d9f38" />
+
+We’ve also added the PR status to the sidebar:
+
+<img width="622" height="666" alt="image" src="https://github.com/user-attachments/assets/b98c2078-061d-4d87-a91f-a55160743e69" />
+
+Improvements: 
+
+- Conductor’s doc site is now live at [https://docs.conductor.build](https://docs.conductor.build/)
+- Added support for opening draft PRs in the git panel
+- Added support for manually opening PRs via the git panel
+- Auto-convert long text snippet pastes into attachments for better readability
+
+Fixes: 
+
+- Fixed loading icon animations throughout the app that would wobble off axis
+- Fixed a bug where `/clear` would not clear the session
+- Fixed popover border radius inconsistencies
+- Fixed composer border radius inconsistencies
+- Fixed referenced files not being truncated and highlighted in user messages
+- Fixed a bug where multi-line `$ARGUMENTS` wouldn’t register with slash commands
+
+Misc: 
+
+- Telemetry improvements
+
+
+
+
+
 # Performance Improvements 
 _0.8.2_ - _0.8.3_
 August 26th, 2025 

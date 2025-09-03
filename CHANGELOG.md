@@ -1,4 +1,4 @@
-# Open dev scripts
+# Open dev scripts and more performant long chats
 _0.9.1_
 Sept 2nd, 2025
 

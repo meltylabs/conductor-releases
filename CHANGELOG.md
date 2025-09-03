@@ -1,3 +1,28 @@
+# Open dev scripts
+_0.9.1_
+Sept 2nd, 2025
+
+Conductor now detects when a localhost URL is running. Open it in your browser by clicking `Open` or ⌘+Shift+O.
+
+<img width="998" height="586" alt="image" src="https://github.com/user-attachments/assets/85d8953e-6136-495c-8b51-1be510cc75a2" />
+
+Improvements: 
+
+- Long chats now render much faster (we virtualized!)
+- ⌘+Enter shortcut to submit dialogs
+- We now show a `Compact and Retry` button when your session runs out of context
+- Add docs to command palette
+
+Fixes: 
+
+- Fixed a bug where thinking output would show excessive newlines
+- Focus the run tab on run button click
+- Updated terminal button styles for consistency
+- Fix “Open In” menu apps not showing for some users
+- Fix auto scroll not working on new messages received from the AI
+- Fixed a bug where files selected in the filepicker with NextJS slugs wouldn’t render properly
+- Fixed a bug where archiving a workspace would not terminate its run script
+
 # Run script, hooks, and custom fonts
 _0.9.0_
 Sept 1st, 2025

@@ -1,3 +1,21 @@
+# Bug Fixes!
+_0.9.2_
+Sept 3rd, 2025
+
+Improvements: 
+
+- Added Settings to the macOS menu bar
+- Show when Claude Code will next be usable when users hit their usage limit
+- New workspace names are validated to prevent duplicate branch names
+
+Fixes: 
+
+- Fixed sort order of Linear search results
+- Only show error retry buttons on the most recent chat turn
+- Terminal processes exiting will not automatically close the respective terminal tab
+- Capitalization is now preserved in new workspace names
+
+  
 # Open dev scripts and more performant long chats
 _0.9.1_
 Sept 2nd, 2025

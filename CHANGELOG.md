@@ -4,7 +4,7 @@ Sept 6th, 2025
 
 We’ve upgrade the diff review panel. It’s now much more performant and easy to read.
 
-<img width="2048" height="1346" alt="image" src="https://github.com/user-attachments/assets/9c875db0-5320-407c-a4c1-d1c0abde3eae" />
+<img width="3024" height="1824" alt="CleanShot 2025-09-06 at 14 08 23@2x" src="https://github.com/user-attachments/assets/9dfeb99a-c08f-4930-8eb5-2f8844f72728" />
 
 Claude’s response times are now just as fast as in the CLI! Conductor now installs Claude Code via the native binary installation, so Claude responds faster and you no longer need `npm`. 
 

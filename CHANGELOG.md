@@ -1,3 +1,25 @@
+# New Diff Review Panel, Faster Claude
+_0.9.3_
+Sept 6th, 2025
+
+We’ve upgrade the diff review panel. It’s now much more performant and easy to read.
+
+<img width="2048" height="1346" alt="image" src="https://github.com/user-attachments/assets/9c875db0-5320-407c-a4c1-d1c0abde3eae" />
+
+Claude’s response times are now just as fast as in the CLI! Conductor now installs Claude Code via the native binary installation, so Claude responds faster and you no longer need `npm`. 
+
+Improvements: 
+
+- Open files in preferred editor from the file preview
+- Send messages with attachments only
+- Added bash syntax highlighting to setup/run/archive scripts
+- Ready to run empty state is now clickable
+- Detect agents in nested folders within ~/.claude/agents
+
+Fixes: 
+
+- Added docs and feedback links to help menu button
+
 # Bug Fixes!
 _0.9.2_
 Sept 3rd, 2025

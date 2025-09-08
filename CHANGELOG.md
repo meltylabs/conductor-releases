@@ -1,3 +1,16 @@
+# Code Review in Conductor 
+_0.10.0_ 
+Sept 8th, 2025 
+
+You can now comment on a diff and we’ll send your feedback straight to Claude! 
+
+<img width="2048" height="1323" alt="image" src="https://github.com/user-attachments/assets/d1c0356a-eef2-41de-8de0-56c6a2cb5384" /> 
+
+Fixes: 
+
+- Fixed a bug where setup scripts failing would leave workspaces stuck in a “setting up” state 
+- Fixed a bug where rows could sometimes not be selected in the Dispatcher 
+
 # New Diff Review Panel, Faster Claude
 _0.9.3_
 Sept 6th, 2025

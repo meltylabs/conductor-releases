@@ -1,3 +1,22 @@
+# Checkout PRs in Conductor 
+_0.10.1_ 
+Sept 9th, 2025 
+
+You can now checkout an existing PR directly from the Dispatcher! 
+
+<img width="1216" height="1058" alt="image" src="https://github.com/user-attachments/assets/a1d5f6f9-0927-4c23-8673-6bcd1fc8215a" />
+
+Improvements: 
+
+- Added support for file level comments in the diff viewer
+- Added options to open a workspace in an external application to the command palette
+
+Fixes: 
+
+- Fixed inaccuracies in large diffs
+- Fixed a bug where draft comments could get reset due to re-renders
+- Fixed UI overflow in setup scripts
+
 # Code Review
 _0.10.0_ 
 Sept 8th, 2025 

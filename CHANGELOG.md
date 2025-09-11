@@ -1,5 +1,5 @@
 # Toggle Big Terminal Mode
-
+_0.10.2_ 
 <img width="486" height="310" alt="image" src="https://github.com/user-attachments/assets/11177c6c-cdd8-4732-aa76-84e46cfae4bd" />
 
 Improvements: 

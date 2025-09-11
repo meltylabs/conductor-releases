@@ -4,6 +4,9 @@ Sept 11th, 2025
 
 Terminal now uses WebGL rendering. It should be much snappier.
 
+![TerminalAmp](https://github.com/user-attachments/assets/c3253d2f-55a3-47ca-a9d8-fca8a194e231)
+
+
 Improvements: 
 
 - Display API key source in top bar

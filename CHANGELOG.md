@@ -1,3 +1,20 @@
+# Terminal Performance
+_0.10.3_ 
+Sept 11th, 2025 
+
+Terminal now uses WebGL rendering. It should be much snappier.
+
+Improvements: 
+
+- Display API key source in top bar
+- Render agent output as markdown
+- Auto expand files clicked in the git panel
+
+Fixes: 
+
+- Fixed message queueing
+- Fixed binary files showing up incorrectly in the git diff
+
 # Toggle Big Terminal Mode
 _0.10.2_ 
 Sept 10th, 2025 

@@ -1,3 +1,21 @@
+# Terminal Performance Pt. 2
+
+We’ve refactored the terminal to reduce crashing and lag for long running tasks. 
+
+Archiving is also now instant:
+![ConductorArchive](https://github.com/user-attachments/assets/bef4ffcc-b72e-433a-bc9a-4034c2930821)
+
+
+Improvements: 
+
+- Simplified signing in with GitHub (we now rely on a local `gh` installation)
+
+Fixes: 
+
+- Fixed `/clear`
+- Fixed comments appearing multiple times in certain git diffs
+- Fixed appending `.conductor` to `.git/info/exclude`
+
 # Terminal Performance
 _0.10.3_ 
 Sept 11th, 2025 

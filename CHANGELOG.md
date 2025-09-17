@@ -1,6 +1,6 @@
 # Terminal Performance Pt. 2
 
-We’ve refactored the terminal to reduce crashing and lag for long running tasks. 
+We’ve refactored the terminal. This should reduce crashing and lag, and improve performance for long running tasks. 
 
 Archiving is also now instant:
 ![ConductorArchive](https://github.com/user-attachments/assets/bef4ffcc-b72e-433a-bc9a-4034c2930821)

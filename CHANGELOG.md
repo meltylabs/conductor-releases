@@ -1,4 +1,6 @@
 # Terminal Performance Pt. 2
+_0.10.5_
+Sept 17th, 2025 
 
 We’ve refactored the terminal. This should reduce crashing and lag, and improve performance for long running tasks. 
 

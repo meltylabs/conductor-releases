@@ -1,5 +1,5 @@
 # Terminal Performance Pt. 2
-_0.10.5_
+_0.10.5_ - _0.10.6_
 Sept 17th, 2025 
 
 We’ve refactored the terminal. This should reduce crashing and lag, and improve performance for long running tasks. 
@@ -17,6 +17,10 @@ Fixes:
 - Fixed `/clear`
 - Fixed comments appearing multiple times in certain git diffs
 - Fixed appending `.conductor` to `.git/info/exclude`
+
+New in 0.10.6:
+
+- Support for gh login for `bash` shell users
 
 # Terminal Performance
 _0.10.3_ 

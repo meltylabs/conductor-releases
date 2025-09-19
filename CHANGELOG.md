@@ -1,3 +1,23 @@
+# conductor.json
+_0.11.0_
+Sept 19th, 2025 
+
+To make it easier to share configurations, Conductor now
+stores your setup and run scripts in a `conductor.json` file.
+
+<img width="1387" height="893" alt="image" src="https://github.com/user-attachments/assets/5db0d284-4d32-4cd6-b6fe-583f06ce5805" />
+
+To learn more, [check out our documentation](https://docs.conductor.build/core/scripts). 
+
+If you have any issues migrating, reach out to us at [humans@conductor.build](mailto:humans@conductor.build)! We’re happy to help.
+
+Improvements: 
+
+- New onboarding flow
+- Default to terminal if no run script exists
+- Added workspace lifecycle logs to the top bar of each workspace
+
+  
 # Terminal Performance Pt. 2
 _0.10.5_ - _0.10.6_
 Sept 17th, 2025 

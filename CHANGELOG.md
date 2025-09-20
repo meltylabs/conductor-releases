@@ -1,5 +1,5 @@
 # conductor.json
-_0.11.0_
+_0.11.0_ - _0.11.2_
 Sept 19th, 2025 
 
 To make it easier to share configurations, Conductor now
@@ -16,6 +16,10 @@ Improvements:
 - New onboarding flow
 - Default to terminal if no run script exists
 - Added workspace lifecycle logs to the top bar of each workspace
+
+New in 0.11.2:
+
+- Confirm before creating a conductor.json migration PR
 
   
 # Terminal Performance Pt. 2

@@ -9,7 +9,7 @@ We’ve revamped the onboarding flow in Conductor to make it easier and more bea
 
 We’ve made it easier to setup your repo to work well with Conductor. You can now create your setup scripts with Claude:
 
-<img width="1520" height="932" alt="image" src="https://github.com/user-attachments/assets/34cb9ca0-c71d-4007-9d86-b8b81dba33ae" />
+<img width="1554" height="950" alt="CleanShot 2025-09-22 at 15 43 52@2x" src="https://github.com/user-attachments/assets/52beafc5-6802-45b3-9553-33ffc071a0f2" />
 
 Improvements: 
 

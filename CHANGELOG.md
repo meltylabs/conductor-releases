@@ -1,3 +1,28 @@
+New Onboarding Experience 
+_0.11.3_ 
+Sept 22nd, 2025 
+
+We’ve revamped the onboarding flow in Conductor to make it easier and more beautiful to get started:
+
+<img width="1806" height="1020" alt="image" src="https://github.com/user-attachments/assets/ecd9bac7-0f09-40c1-bf2b-cdb9e14aa81d" />
+
+
+We’ve made it easier to setup your repo to work well with Conductor. You can now create your setup scripts with Claude:
+
+<img width="1520" height="932" alt="image" src="https://github.com/user-attachments/assets/34cb9ca0-c71d-4007-9d86-b8b81dba33ae" />
+
+Improvements: 
+
+- Added a `Report Bug` button when Claude Code returns errors
+- Linear attachments are now rendered as markdown
+- The `Open In` menu no longer defaults to Finder
+- A new workspace will be automatically created when a repository is added
+
+Fixes: 
+
+- Retrying an error’ed message will now retry with the failed message’s attachments
+- The entire top bar is now draggable
+
 # conductor.json
 _0.11.0_ - _0.11.2_
 Sept 19th, 2025 

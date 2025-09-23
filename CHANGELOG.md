@@ -1,5 +1,5 @@
 # The Return of Big Terminal Mode 
-_0.11.4_ 
+_0.11.4_ - _0.11.5_
 Sept 23rd, 2025 
 
 We’ve brought back big terminal mode! Enable it in `Settings` → `Terminal` 
@@ -13,6 +13,8 @@ Improvements:
 Fixes: 
 
 - Removed an unnecessary error toast when closing the “Add a local repo” dialog
+
+In 0.11.5, added debug tools for the conductor.json migration
 
 # New Onboarding 
 _0.11.3_ 

@@ -1,3 +1,19 @@
+# The Return of Big Terminal Mode 
+_0.11.4_ 
+Sept 23rd, 2025 
+
+We’ve brought back big terminal mode! Enable it in `Settings` → `Terminal` 
+
+<img width="2048" height="1218" alt="image" src="https://github.com/user-attachments/assets/acf61848-1830-4c82-859f-ecbcda848e79" />
+
+Improvements: 
+
+- Preview what Claude will see when sending comment attachments
+
+Fixes: 
+
+- Removed an unnecessary error toast when closing the “Add a local repo” dialog
+
 # New Onboarding 
 _0.11.3_ 
 Sept 22nd, 2025 

@@ -1,3 +1,21 @@
+# Improved Cancelling 
+_0.11.6_ 
+Sept 23rd, 2025 
+
+Cancelling is now much more reliable in Conductor! 
+
+Improvements: 
+
+- Improvements to `conductor.json` files generated via Claude Code
+- Improved markdown display for agent output
+- Added app icons to the “Open” dropdown
+
+Fixes: 
+
+- Fixed slowness when sending attachments in the UI
+- Fixed comment whitespace getting trimmed while drafting
+- Claude Code now stops when you archive a workspace
+
 # The Return of Big Terminal Mode 
 _0.11.4_ - _0.11.5_
 Sept 23rd, 2025 

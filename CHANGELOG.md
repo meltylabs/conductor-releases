@@ -1,3 +1,19 @@
+# Forward Failing Checks to Claude 
+_0.12.0_ 
+Sept 25th, 2025 
+
+You can now forward your failing CI checks to Claude to fix! 
+
+<img width="866" height="344" alt="image" src="https://github.com/user-attachments/assets/ef5e62cd-3e0e-4af2-9469-a308d38fb1bc" />
+
+You can now search your chats in the command palette (⌘+K):
+
+<img width="2048" height="1218" alt="image" src="https://github.com/user-attachments/assets/dac35e52-f39b-4873-beeb-6fb310190e25" />
+
+**Fish users, rejoice!** We’ve also revamped how we run terminal commands. The terminal will now use your default SHELL and PATH, as well as any terminal commands we run on your behalf (setup scripts, git commands, etc). 
+
+<img width="1830" height="292" alt="image" src="https://github.com/user-attachments/assets/af5e2cf6-1f43-4265-a0c9-87b661987f09" />
+
 # Improved Cancelling 
 _0.11.6_ 
 Sept 23rd, 2025 

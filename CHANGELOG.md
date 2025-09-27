@@ -1,3 +1,27 @@
+# Improved Plan Mode 
+_0.12.1_ 
+Sept 27th, 2025 
+
+We’ve improved plan mode! Claude no longer thinks it’s still in plan mode when it’s not. We’ve also updated the controls to respond to Claude’s plans: 
+
+<img width="1268" height="450" alt="image" src="https://github.com/user-attachments/assets/2fedcbfa-dac9-4903-bd87-2766302876c6" /> 
+
+Claude will also no longer forget that its read files across turns. Response times should be faster across chats too. 
+
+Improvements: 
+
+- We now only update the MacOS notification badge when Claude completes
+- Improved the `Resolve merge conflicts` button prompt
+- Added keyboard shortcut `⌘+⇧+P` to create a PR
+- Show the number of pending checks in the git status bar
+- Better notifications when scripts fail
+
+Fixes: 
+
+- Fixed a bug sourcing initialization script
+- Prevented upstream tracking of new workspace branches
+- Fixed compact button height
+
 # Forward Failing Checks to Claude 
 _0.12.0_ 
 Sept 25th, 2025 

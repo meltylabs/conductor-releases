@@ -1,3 +1,27 @@
+# New workspace page
+_0.13.0_
+Sept 27th, 2025
+
+Introducing our new workspace page! We’ve made making new workspaces faster and easier to understand.
+
+<img width="2048" height="1567" alt="image" src="https://github.com/user-attachments/assets/44d6a6e6-2619-41c8-9b3e-929c7af99819" />
+
+Name your workspace/branch with the inline editor and see at a glance what happened during workspace setup.
+
+<img width="836" height="254" alt="image" src="https://github.com/user-attachments/assets/29e6baa4-4a7d-45d3-a294-ca2ca2e64db0" />
+
+
+We’ve also made it more intuitive to link Linear issues. Press ⌘I to link from the composer.
+
+<img width="804" height="338" alt="image" src="https://github.com/user-attachments/assets/ddba9e61-05fb-4581-9c8c-8b77c8fbe1c9" />
+
+Fixes
+
+- Detect conductor.json in repo root
+- ⌘R to focus run tab
+
+
+
 # Improved Plan Mode 
 _0.12.1_ 
 Sept 27th, 2025 

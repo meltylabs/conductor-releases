@@ -1,6 +1,10 @@
-# New workspace page
-_0.13.0_
-Sept 27th, 2025
+# Sonnet 4.5 + new workspace page
+_0.13.1_
+Sept 29th, 2025
+
+https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F6421e7049ff8b2c4591497ec92dc4157b2ac1b30-3840x2160.png&w=3840&q=75<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0536fa4e-38b7-4f32-879d-f6d4f7f5d4d5" />
+
+Sonnet 4.5, the best coding model in the world, is now live in Conductor!
 
 Introducing our new workspace page! We’ve made making new workspaces faster and easier to understand.
 
@@ -10,14 +14,16 @@ Name your workspace/branch with the inline editor and see at a glance what happe
 
 <img width="836" height="254" alt="image" src="https://github.com/user-attachments/assets/29e6baa4-4a7d-45d3-a294-ca2ca2e64db0" />
 
-
 We’ve also made it more intuitive to link Linear issues. Press ⌘I to link from the composer.
 
 <img width="804" height="338" alt="image" src="https://github.com/user-attachments/assets/ddba9e61-05fb-4581-9c8c-8b77c8fbe1c9" />
 
+Finally, we've made cancellations much more reliable. It should work instantly wherever you are in the chat.
+
 Fixes
 
 - Detect conductor.json in repo root
+- Reliable cancellation
 - ⌘R to focus run tab
 
 

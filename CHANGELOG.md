@@ -1,5 +1,5 @@
 # Sonnet 4.5 + new workspace page
-_0.13.1_
+_0.13.2_
 Sept 29th, 2025
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0536fa4e-38b7-4f32-879d-f6d4f7f5d4d5" />

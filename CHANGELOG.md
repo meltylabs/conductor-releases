@@ -1,4 +1,4 @@
-# Conductor <> Bedrock, Vertex, or custom provider
+# Run on Bedrock, Vertex, or custom provider
 _0.13.6_
 Sept 30th, 2025
 

@@ -1,3 +1,22 @@
+# Conductor <> Bedrock, Vertex, or custom provider
+_0.13.6_
+Sept 30th, 2025
+
+<img width="1644" height="1454" alt="image" src="https://github.com/user-attachments/assets/d9888c2a-1849-4dc1-8ddb-0d9ef8c1e3f0" />
+
+You can now setup Claude Code to run via an alternate provider, like Bedrock, Vertex, or any Anthropic compatible URL. 
+
+Fixes
+
+- More reliable auto-updater
+- Fixed width of “Open In” buttons
+- Added privacy link to onboarding
+- Added some tips on using [Conductor with Cursor/VSCode](https://docs.conductor.build/guides/use-with-cursor).
+
+
+# RIP _0.13.3_ - _0.13.6_
+Don't ask. Our intern went wild.
+
 # Sonnet 4.5 + new workspace page
 _0.13.2_
 Sept 29th, 2025

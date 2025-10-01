@@ -1,5 +1,5 @@
 # Run on Bedrock, Vertex, or custom provider
-_0.13.6_
+_0.13.6_-_0.13.7_
 Sept 30th, 2025
 
 <img width="1644" height="1454" alt="image" src="https://github.com/user-attachments/assets/d9888c2a-1849-4dc1-8ddb-0d9ef8c1e3f0" />

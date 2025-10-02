@@ -1,3 +1,11 @@
+# Fixes for Fish Users
+_0.13.8_
+Oct 1st, 2025
+
+- We now always use zsh for internal shell commands so you can continue to use Conductor with fish
+- Increased `gh` CLI auth timeout and potential bug with authentication. If Conductor is not recognizing your `gh` login, please let us know at humans@conductor.build!
+
+
 # Run on Bedrock, Vertex, or custom provider
 _0.13.6_-_0.13.7_
 Sept 30th, 2025

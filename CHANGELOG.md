@@ -2,7 +2,7 @@
 _0.14.0_
 Oct 3rd, 2025
 
-<img width="830" height="332" alt="image" src="https://github.com/user-attachments/assets/7a659e6a-4c23-483d-8f8a-900feec33d54" />
+<img width="712" height="246" alt="CleanShot 2025-10-03 at 10 49 27@2x" src="https://github.com/user-attachments/assets/40495a22-54e2-4d81-b570-de1345c967e6" />
 
 You can now revert Claude’s changes in one click! Claude will be notified that you made a change so you don’t have to explain yourself.
 

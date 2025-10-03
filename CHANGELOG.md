@@ -1,3 +1,33 @@
+# One Click Revert, Faster Diffs
+_0.14.0_
+Oct 3rd, 2025
+
+<img width="830" height="332" alt="image" src="https://github.com/user-attachments/assets/7a659e6a-4c23-483d-8f8a-900feec33d54" />
+
+You can now revert Claude’s changes in one click! Claude will be notified that you made a change so you don’t have to explain yourself.
+
+We’ve also changed the sidebar ordering. Workspaces are now ordered by last user message sent, so you can see the most recent chats at the top.
+
+<img width="460" height="720" alt="image" src="https://github.com/user-attachments/assets/9b23ae17-8ff5-4cf0-a74e-d93dd89487c1" />
+
+We’ve made the diff viewer faster, and now show structural in-line diffs.
+
+<img width="394" height="226" alt="image" src="https://github.com/user-attachments/assets/50580d50-d8c9-42d1-bdfb-9410b763ffdf" />
+
+Also, we added a new “refresh” button for when changes occur while the diff viewer is open.
+
+<img width="948" height="440" alt="image" src="https://github.com/user-attachments/assets/0bf82ede-bd44-4a18-aacf-98dbcb03cea0" />
+
+
+Fixes
+
+- Faster syntax highlighting in diff viewer
+- Large files will no longer slow down the diff viewer
+- Structural diffs are now highlighted in the diff viewer
+- Text selections now render properly in the diff viewer
+- Moved files will now render properly in the diff viewer
+- Improved conductor.json Claude prompt
+
 # Fixes for Fish Users
 _0.13.8_
 Oct 1st, 2025

@@ -1,5 +1,5 @@
 # New Diff Viewer 
-_0.14.1_ 
+_0.14.1_ - _0.14.2_
 Oct 7th, 2025 
 
 We've revamped the diff UI! 
@@ -24,6 +24,11 @@ Fixes
 - Fixed a bug where comments and line numbers could become misaligned in the git diff
 - Added drag regions to the git diff sheet
 - Fixed input not resetting on linear search palette close
+
+New in 0.14.2:
+
+- Option to set AWS_PROFILE
+- Partial solve of memory leak
 
 # One Click Revert, Faster Diffs
 _0.14.0_

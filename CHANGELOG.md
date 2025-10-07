@@ -1,3 +1,30 @@
+# New Diff Viewer 
+_0.14.1_ 
+Oct 7th, 2025 
+
+We've revamped the diff UI! 
+
+<img width="2048" height="1319" alt="image" src="https://github.com/user-attachments/assets/237c299b-87e3-4631-bd85-aa671a623827" /> 
+
+We’ve also fixed a performance degradation so that Conductor is now faster to create new workspaces and switch between them. 
+
+Improvements 
+
+- New sound effects on workspace completion
+- Added an `escape` shortcut to cancel git diff comments
+- Converted the repository details page to a simpler dialog
+- Added UI treatment for `/login` errors
+- Show full branch name on hover in workspace sidebar
+
+Fixes 
+
+- Disable font ligatures in git diffs
+- Fixed binary file detection for untracked files
+- Fixed line detection for untracked files
+- Fixed a bug where comments and line numbers could become misaligned in the git diff
+- Added drag regions to the git diff sheet
+- Fixed input not resetting on linear search palette close
+
 # One Click Revert, Faster Diffs
 _0.14.0_
 Oct 3rd, 2025

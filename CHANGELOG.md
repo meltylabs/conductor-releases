@@ -6,7 +6,7 @@ We've revamped the diff UI!
 
 <img width="2048" height="1319" alt="image" src="https://github.com/user-attachments/assets/237c299b-87e3-4631-bd85-aa671a623827" /> 
 
-We’ve also fixed a performance degradation so that Conductor is now faster to create new workspaces and switch between them. 
+We’ve also fixed a performance degradation associated with having many workspaces. Conductor should be much faster now! 
 
 Improvements 
 
@@ -18,7 +18,7 @@ Improvements
 
 Fixes 
 
-- Disable font ligatures in git diffs
+- Disabled font ligatures in git diffs
 - Fixed binary file detection for untracked files
 - Fixed line detection for untracked files
 - Fixed a bug where comments and line numbers could become misaligned in the git diff

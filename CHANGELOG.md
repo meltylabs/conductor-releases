@@ -1,6 +1,6 @@
 # New Diff Viewer 
 _0.14.1_ - _0.14.2_
-Oct 7th, 2025 
+Oct. 7th, 2025 
 
 We've revamped the diff UI! 
 
@@ -27,8 +27,9 @@ Fixes
 
 New in 0.14.2:
 
+- Performance improvements
 - Option to set AWS_PROFILE
-- Partial solve of memory leak
+
 
 # One Click Revert, Faster Diffs
 _0.14.0_

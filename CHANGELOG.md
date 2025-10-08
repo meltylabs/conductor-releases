@@ -7,6 +7,7 @@ We’ve fixed a regression that could leave zombie `claude` processes on user sy
 Improvements 
 
 - Updated right sidebar empty state
+- Better error handling for the Anthropic Consumer Terms and Privacy Policy October 8th deadline error 
 
 Fixes 
 

@@ -1,4 +1,6 @@
 ## Performance Improvements
+_0.14.3_ 
+Oct 8th, 2025 
 
 We’ve fixed a regression that could leave zombie `claude` processes on user systems. 
 

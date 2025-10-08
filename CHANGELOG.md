@@ -1,3 +1,17 @@
+## Performance Improvements
+
+We’ve fixed a regression that could leave zombie `claude` processes on user systems. 
+
+Improvements 
+
+- Updated right sidebar empty state
+
+Fixes 
+
+- Fixed MCP documentation link
+
+We’ve also temporarily removed plan mode from Conductor due to bugs in the Anthropic Agent SDK. For now, we’re getting good results by asking Sonnet 4.5 to make a plan.
+
 # New Diff Viewer 
 _0.14.1_ - _0.14.2_
 Oct. 7th, 2025 

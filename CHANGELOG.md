@@ -1,3 +1,20 @@
+## Zoom Improvements 
+_0.14.5_ 
+Oct 9th, 2025 
+
+We’ve fixed a bug with zoom controls (`⌘-`, `⌘+`) that would cause dragging elements to break. 
+
+Improvements 
+
+- Made arrow key navigation between files in the diff more obvious
+- Updated git diff empty state
+- Focus the composer when closing the `Link Issue` dialog
+
+Fixes 
+
+- Prevent tooltips from going outside the app
+- Hide system reminders from the `Read` tool in the UI
+
 ## Performance Improvements
 _0.14.3_ - _0.14.4_ 
 Oct 8th, 2025 

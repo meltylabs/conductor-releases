@@ -2,7 +2,9 @@
 _0.14.6_
 Oct 10th, 2025
 
-We've added a markdown preview to the diff viewer. 
+We've added a markdown preview to the diff viewer! 
+
+<img width="3234" height="2094" alt="CleanShot 2025-10-10 at 12 27 37@2x" src="https://github.com/user-attachments/assets/f6aa9573-8f77-48dd-992a-014c5f6a9215" />
 
 Improvements
 

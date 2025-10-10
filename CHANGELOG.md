@@ -1,3 +1,21 @@
+## Markdown Preview
+_0.14.6_
+Oct 10th, 2025
+
+We've added a markdown preview to the diff viewer. 
+
+Improvements
+
+- `gh` auth status now caches for 24hr
+- Updated resolve conflicts prompt to `Resolve any existing merge conflicts with the remote branch ({targetBranch}). Then, commit and push your changes.`
+- Rename revert -> discard
+
+Fixes 
+
+- Fix horizontal overflow render in repo details dialog
+- Sidebar UI tweaks
+
+
 ## Zoom Improvements 
 _0.14.5_ 
 Oct 9th, 2025 

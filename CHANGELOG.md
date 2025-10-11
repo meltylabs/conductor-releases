@@ -1,3 +1,19 @@
+## Git Diff Improvements 
+_0.14.7_ 
+Oct 11th, 2025 
+
+Improvements 
+
+- Added an `Open In` button to files in the git diff
+- Newly added markdown files will be rendered as markdown in the git diff by default
+
+Fixes 
+
+- Fixed markdown text wrapping in git diff viewer
+- Fixed git actions sharing loading state across workspaces
+- Fixed the `escape` key not closing the git diff viewer after leaving a comment
+- Fixed the comment button having an inaccurate click target
+
 ## Markdown Preview
 _0.14.6_
 Oct 10th, 2025

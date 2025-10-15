@@ -1,4 +1,33 @@
-## Git Diff Improvements 
+# Fast PR Creation, Fetch and Rebase, and Git Checkpoints Beta
+_0.15.0_ 
+Oct 15th, 2025 
+
+The `Create PR` button now uses `gemini-2.5-flash-lite` to generate PR titles and descriptions, and is much faster than asking Claude! 
+
+![latest_fast_pr](https://github.com/user-attachments/assets/ade59975-dd79-4bbc-a543-67161234b2fa)
+
+You can also pull in the latest changes from your remote target in one click. 
+
+<img width="918" height="584" alt="image" src="https://github.com/user-attachments/assets/d4472d06-f5f1-4bb3-b879-01789241f722" />
+
+Lastly, a new experimental feature: git checkpoints. 
+
+<img width="1482" height="760" alt="image" src="https://github.com/user-attachments/assets/e7c83f3f-7385-4438-93b2-4635c7a41f62" />
+
+Enable checkpoints in `Settings -> Experimental`. Conductor will commit for you on each turn. You’ll see turn-by-turn diffs and be able to revert your chat to previous states.
+
+Improvements 
+
+- The `Commit and Push` button now commits without going through Claude
+- Render Mermaid diagrams properly in the chat
+
+Fixes 
+
+- Disable trackpad zoom
+- Toasts are now dismissible when a dialog is open
+- Enhance various error messages in the UI
+
+# Git Diff Improvements 
 _0.14.7_ 
 Oct 11th, 2025 
 
@@ -14,7 +43,7 @@ Fixes
 - Fixed the `escape` key not closing the git diff viewer after leaving a comment
 - Fixed the comment button having an inaccurate click target
 
-## Markdown Preview
+# Markdown Preview
 _0.14.6_
 Oct 10th, 2025
 
@@ -34,7 +63,7 @@ Fixes
 - Sidebar UI tweaks
 
 
-## Zoom Improvements 
+# Zoom Improvements 
 _0.14.5_ 
 Oct 9th, 2025 
 
@@ -51,7 +80,7 @@ Fixes
 - Prevent tooltips from going outside the app
 - Hide system reminders from the `Read` tool in the UI
 
-## Performance Improvements
+# Performance Improvements
 _0.14.3_ - _0.14.4_ 
 Oct 8th, 2025 
 

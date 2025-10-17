@@ -1,3 +1,23 @@
+# See running workspaces
+_0.15.1_
+Oct 16th, 2025
+
+You can now see running workspaces at a glance.
+![Conductor](https://github.com/user-attachments/assets/f53e235e-7b14-48ad-bf40-ae5c417f9de7)
+
+We've also updated our diff colors. Multi-line edits are now much easier to read.
+
+Improvements
+
+- Workspace directory name is now always visible in the sidebar
+
+Fixes 
+
+- Fixed file path overflow in discard changes dialog
+- Git race condition that could sometimes cause new workspaces to fail
+- Fixed dark mode dialog keyboard shortcut visiblity
+
+
 # Fast PR Creation, Fetch and Rebase, and Git Checkpoints Beta
 _0.15.0_ 
 Oct 15th, 2025 

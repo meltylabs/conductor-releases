@@ -5,7 +5,9 @@ Oct 16th, 2025
 You can now see running workspaces at a glance.
 ![Conductor](https://github.com/user-attachments/assets/f53e235e-7b14-48ad-bf40-ae5c417f9de7)
 
-We've also updated our diff colors. Multi-line edits are now much easier to read.
+We've also updated our diff colors and font weight. Multi-line edits are now much easier to read.
+
+<img width="3024" height="1824" alt="CleanShot 2025-10-16 at 17 48 11@2x" src="https://github.com/user-attachments/assets/9ae57c41-0eb0-42c5-a69e-f0a6d4b38a42" />
 
 Improvements
 

@@ -2,7 +2,7 @@
 _0.15.2_
 Oct 20th, 2025
 
-You can now create a workspace directly from a PR, existing branch, or Linear issue using cmd+shift+N:
+You can now create a workspace directly from a PR, existing branch, or Linear issue using ⌘+⇧+N:
 
 <img width="624" height="548" alt="image" src="https://github.com/user-attachments/assets/2b694aaf-d52e-42f3-a738-c82d048b1cc0" />
 

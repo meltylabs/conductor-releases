@@ -1,3 +1,23 @@
+# Diff Viewer + File Explorer
+_0.16.0_
+Oct 21st, 2025
+
+We’ve moved the git diff into the main chat panel!
+<img width="2048" height="1235" alt="image" src="https://github.com/user-attachments/assets/4cbb91de-02ab-4e12-9cd0-bc087e15f91e" />
+
+You can now view all of the files in your workspace in Conductor. 
+<img width="948" height="1242" alt="image" src="https://github.com/user-attachments/assets/79ca2508-ef92-42cf-bf84-1a4c80122e98" />
+
+Improvements: 
+
+- Claude will now always commit for you - no more `Changes auto-committed by Conductor`!
+
+Fixes: 
+
+- Better binary file detection
+- Prevent Linear issue IDs from wrapping
+  
+
 # Create workspace from PR
 _0.15.2_
 Oct 20th, 2025

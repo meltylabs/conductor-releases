@@ -2,7 +2,7 @@
 _0.16.0_
 Oct 21st, 2025
 
-We’ve moved the git diff into the main chat panel!
+We’ve moved the git diff into the main chat panel! 
 <img width="2048" height="1235" alt="image" src="https://github.com/user-attachments/assets/4cbb91de-02ab-4e12-9cd0-bc087e15f91e" />
 
 You can now view all of the files in your workspace in Conductor. 

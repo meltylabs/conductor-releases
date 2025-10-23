@@ -1,3 +1,22 @@
+# Diff Viewer Bug Fixes 
+_0.16.1_ 
+Oct 23rd, 2025 
+
+Improvements: 
+
+- Switching between models in the middle of a session is now much faster
+- We’ve refreshed our accent color scale
+- Add Android Studio to the Open In menu
+
+Fixes: 
+
+- Fixed files not refreshing in diffs
+- Fixed deleted files not rendering in diffs
+- Navigate away from a workspace if its repository is deleted
+- Fix bottom padding on single file diffs
+- Focus the chat tab when sending a message
+- Disable arrow key shortcuts when focused on the composer
+
 # Diff Viewer + File Explorer
 _0.16.0_
 Oct 21st, 2025

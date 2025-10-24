@@ -1,3 +1,22 @@
+# Multiple Chats 
+_0.17.0_ 
+Oct 24th, 2025 
+
+You can now launch multiple Claude Code chats in a workspace using **⌘T.** 
+
+<img width="2048" height="1317" alt="image" src="https://github.com/user-attachments/assets/a133a147-1e99-4080-a4b5-6738c77e4c58" />
+
+Improvements: 
+
+- Added line hover highlighting to the diff viewer
+- Display the relative commit time in the changes dropdown filter
+
+Fixes: 
+
+- Fixed files not refreshing when not on the diff tab
+- Branch names now update when a workspace is not selected
+- Enable scrolling in the changes dropdown filter
+
 # Diff Viewer Bug Fixes 
 _0.16.1_ 
 Oct 23rd, 2025 

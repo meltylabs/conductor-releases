@@ -17,6 +17,10 @@ Fixes:
 - Branch names now update when a workspace is not selected
 - Enable scrolling in the changes dropdown filter
 
+Misc:
+
+- We removed the compact button. You can still compact with the `/compact` command.
+
 # Diff Viewer Bug Fixes 
 _0.16.1_ 
 Oct 23rd, 2025 

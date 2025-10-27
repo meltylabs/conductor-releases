@@ -1,3 +1,18 @@
+# Bug Fixes
+_0.17.1_
+Oct 27th, 2025
+
+Improvements: 
+
+- Improved performance issue in composer. Let us know if you’re still seeing any issues with lag!
+- Relative commit time in the changes dropdown filter
+- We’ve consolidated the diff and file tab into one
+
+Fixes: 
+
+- Fixed composer send button hover color
+- Fixed unread count not incrementing for sessions in non-focused workspaces
+
 # Multiple Chats 
 _0.17.0_ 
 Oct 24th, 2025 

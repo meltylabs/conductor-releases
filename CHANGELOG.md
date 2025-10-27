@@ -1,3 +1,19 @@
+# Misc Fixes 
+_0.17.2_ 
+Oct 27th, 2025 
+
+Improvements: 
+
+- Added Haiku 4.5
+- Compacting now goes through Anthropic’s native APIs
+
+Fixes: 
+
+- Speed up message processing
+- Reduce git queries ran from the workspace sidebar
+- Fix diff viewer line number alignment
+- Reset sessions in a `cancelling` state to idle on startup 
+
 # Bug Fixes
 _0.17.1_
 Oct 27th, 2025

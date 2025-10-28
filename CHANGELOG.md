@@ -9,6 +9,8 @@ Fixes:
 - Fix `exit_plan_mode` tool calls causing a chat to get stuck
 - Fix the composer not always getting auto-focused
 - Fix branches being renamed in new chat tabs
+- Fix text overflow for renamed files in the git panel 
+- Pressing `enter` no longer closes alert dialogs 
 
 # Performance Improvements
 _0.17.3_ 

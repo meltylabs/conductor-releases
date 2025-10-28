@@ -1,5 +1,5 @@
 # Performance Improvements
-_0.17.3_ 
+_0.17.3_ - _0.17.4_ 
 Oct 28th, 2025 
 
 We’ve fixed a performance regression introduced in 0.17.0 related to session notifications. Our apologies! 
@@ -11,7 +11,8 @@ Improvements:
 
 Fixes: 
 
-- Fix nested buttons 
+- Fix nested buttons
+- Fixed chats getting stuck when Claude called the `exit_plan_mode` tool 
 
 # Misc Fixes 
 _0.17.2_ 

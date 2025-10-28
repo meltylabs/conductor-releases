@@ -1,5 +1,17 @@
+# Git Status in Sidebar
+
+View git status in the sidebar at a glance. 
+
+<img width="888" height="740" alt="image" src="https://github.com/user-attachments/assets/2db9f4de-93b8-45cc-9b63-1252d6139ba4" />
+
+Fixes: 
+
+- Fix `exit_plan_mode` tool calls causing a chat to get stuck
+- Fix the composer not always getting auto-focused
+- Fix branches being renamed in new chat tabs
+
 # Performance Improvements
-_0.17.3_ - _0.17.4_ 
+_0.17.3_ 
 Oct 28th, 2025 
 
 We’ve fixed a performance regression introduced in 0.17.0 related to session notifications. Our apologies! 

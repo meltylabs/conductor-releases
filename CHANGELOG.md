@@ -1,4 +1,6 @@
 # Git Status in Sidebar
+_0.17.4_ 
+Oct 28th, 2025 
 
 View git status in the sidebar at a glance. 
 

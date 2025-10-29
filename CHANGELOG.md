@@ -1,4 +1,4 @@
-# Tab Improvements 
+# Tab Beautification 
 _0.17.5_ 
 Oct 28th, 2025 
 

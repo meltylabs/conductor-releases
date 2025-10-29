@@ -1,3 +1,29 @@
+# Chat Tab UI Improvements 
+
+We’ve improved the UI for chat tabs:
+
+<img width="1674" height="940" alt="image" src="https://github.com/user-attachments/assets/8436493a-311b-4d6b-bd03-45174cd8dcc2" />
+
+We also now save chat history, so you can restore previous tabs:
+
+<img width="646" height="522" alt="image" src="https://github.com/user-attachments/assets/e4686ede-aeb1-445b-8be9-8e6d0b0d609c" />
+
+You can also now edit branch names in the top bar:
+
+<img width="600" height="356" alt="image" src="https://github.com/user-attachments/assets/c4455295-6256-4a2a-82d0-92e26552d103" />
+
+Improvements: 
+
+- Window size and location now persists across restart
+- Wider chats on large screens
+
+Fixes: 
+
+- File names will always be visible when expanding tool calls
+- Prevent `enter` key from closing alert dialogs
+- Fix mutations causing UI lag
+- Fix drag regions in the top bar
+
 # Git Status in Sidebar
 _0.17.4_ 
 Oct 28th, 2025 
@@ -12,7 +38,6 @@ Fixes:
 - Fix the composer not always getting auto-focused
 - Fix branches being renamed in new chat tabs
 - Fix text overflow for renamed files in the git panel 
-- Pressing `enter` no longer closes alert dialogs 
 
 # Performance Improvements
 _0.17.3_ 

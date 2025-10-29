@@ -1,4 +1,6 @@
 # Chat Tab UI Improvements 
+_0.17.5_ 
+Oct 28th, 2025 
 
 We’ve improved the UI for chat tabs:
 

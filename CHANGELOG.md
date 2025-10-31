@@ -1,3 +1,26 @@
+# Codex
+_0.18.0_
+Oct 31st, 2025
+
+You can now use Codex in Conductor!  
+
+<img width="572" height="512" alt="image" src="https://github.com/user-attachments/assets/13bc1acd-594f-4388-a551-bedce75917a9" />
+
+Improvements: 
+
+- Simpler workspace empty state
+- New “create workspace from” button
+- Added `ctrl+`` shortcut to focus the terminal
+- Improved tab history UI
+
+Fixes: 
+
+- Fix alignment of run button
+- Fix workspaces re-ordering in the sidebar when session tabs were closed
+- Fix horizontal chat overflow
+- Hide the pull latest changes button when workspace is behind remote
+- Fix file mentions not triggering in the composer after parentheses or brackets
+
 # Tab Beautification 
 _0.17.5_ 
 Oct 28th, 2025 

@@ -1,5 +1,22 @@
+# Bug Fixes 
+_0.18.3_ 
+
+# Bug Fixes
+
+Improvements: 
+
+- Added a default thinking level preference in `Settings` → `General`
+- Show PR number and URL for merged PRs
+- Sort grouped Linear issues by their created time
+
+Fixes: 
+
+- Don’t attach thinking mode in `/compact` messages
+- Fix open-in behavior for file badges
+- Fix oversized tool header hit areas
+
 # Codex
-_0.18.0_
+_0.18.0_ - _0.18.2_ 
 Oct 31st, 2025
 
 You can now use Codex in Conductor!  

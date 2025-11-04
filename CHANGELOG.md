@@ -1,3 +1,21 @@
+# Better Create PR Prompt
+_0.18.4_
+Nov 4th, 2025 
+
+Claude is faster and aware of the current git status when creating PRs. 
+
+<img width="1184" height="924" alt="image" src="https://github.com/user-attachments/assets/0b13492e-8736-4691-941f-47b1e64ca125" />
+
+Also, copy a workspace’s branch in one click. 
+
+<img width="728" height="154" alt="image" src="https://github.com/user-attachments/assets/9e2ca9e4-2361-4a5c-a3f2-0a4870930431" />
+
+Fixes: 
+
+- Fix tab titles not always being in sync with Codex models
+- Only highlight file in git panel when viewing diffs
+- Fix markdown text wrapping in diffs
+
 # Bug Fixes 
 _0.18.3_ 
 Nov 3rd, 2025

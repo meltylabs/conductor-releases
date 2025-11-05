@@ -4,7 +4,7 @@ Nov 5th, 2025
 
 Revert your chat to a previous turn, wiping the conversation history and changes. 
 
-<img width="369" height="71" alt="image" src="https://github.com/user-attachments/assets/b638f1ac-08b5-4098-ae5d-b2b6cdf2f032" /> 
+<img width="684" height="240" alt="CleanShot 2025-11-05 at 14 38 56@2x" src="https://github.com/user-attachments/assets/4ce9afbd-5782-402e-a8a8-fcc51b4ddb1f" />
 
 Also, view at a glance changes in Claude’s most recent turn. 
 

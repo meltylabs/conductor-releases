@@ -1,3 +1,29 @@
+# Checkpoints 
+_0.19.0_ 
+Nov 5th, 2025 
+
+Revert your chat to a previous turn, wiping the conversation history and changes. 
+
+<img width="369" height="71" alt="image" src="https://github.com/user-attachments/assets/b638f1ac-08b5-4098-ae5d-b2b6cdf2f032" /> 
+
+Also, view at a glance changes in Claude’s most recent turn. 
+
+<img width="746" height="216" alt="image" src="https://github.com/user-attachments/assets/703b0edd-f4f0-4f4b-bd7f-c3c53aa29371" /> 
+
+Learn more about checkpointing [in our docs](https://docs.conductor.build/core/checkpoints). 
+
+Improvements: 
+
+- Clicking file badges will now show you the file in Conductor
+- Selecting a model now closes the model picker and focuses the composer
+
+Fixes: 
+
+- Fix `model not found` error in older chats
+- Improve resource teardown logic on app close
+- Fix hover mask for tabs with long file names
+- Fix `not_found_error` when setting `gpt-5-codex` as the default model in Settings
+
 # Better Create PR Prompt
 _0.18.4_
 Nov 4th, 2025 

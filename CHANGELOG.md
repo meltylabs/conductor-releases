@@ -1,5 +1,5 @@
 # Checkpoints 
-_0.19.0_ 
+_0.19.0_ - _0.19.1_
 Nov 5th, 2025 
 
 Revert your chat to a previous turn, wiping the conversation history and changes. 
@@ -11,6 +11,11 @@ Also, view at a glance changes in Claude’s most recent turn.
 <img width="746" height="216" alt="image" src="https://github.com/user-attachments/assets/703b0edd-f4f0-4f4b-bd7f-c3c53aa29371" /> 
 
 Learn more about checkpointing [in our docs](https://docs.conductor.build/core/checkpoints). 
+
+You can now also close the left sidebar. Press ⌘B to toggle the left sidebar, and ⌥⌘B to toggle right.
+
+<img width="2598" height="2038" alt="CleanShot 2025-11-05 at 13 36 47@2x" src="https://github.com/user-attachments/assets/0a81e613-2241-4aa0-bd98-2224a943d39d" />
+
 
 Improvements: 
 

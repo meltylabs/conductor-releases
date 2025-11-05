@@ -12,7 +12,9 @@ Also, view at a glance changes in Claude’s most recent turn.
 
 Learn more about checkpointing [in our docs](https://docs.conductor.build/core/checkpoints). 
 
-You can now also close the left sidebar. Press ⌘B to toggle the left sidebar, and ⌥⌘B to toggle right.
+You can now also close the left sidebar. Press ⌘B to toggle the left sidebar, and ⌥⌘B to toggle right. 
+
+Or, turn on Zen Mode with CTRL+Z to hide both at once.
 
 <img width="2598" height="2038" alt="CleanShot 2025-11-05 at 13 36 47@2x" src="https://github.com/user-attachments/assets/0a81e613-2241-4aa0-bd98-2224a943d39d" />
 

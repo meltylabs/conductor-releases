@@ -1,0 +1,17 @@
+name: Test Failing CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - test-ci-failure
+
+jobs:
+  always-fail:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Fail instantly
+        run: exit 1

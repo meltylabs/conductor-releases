@@ -1,3 +1,34 @@
+# File picker and chat titles 
+_0.20.0_
+Nov 7th, 2025
+
+We've added a new file opener. Use ⌘P to search files across your workspace!
+
+<img width="1752" height="1357" alt="image" src="https://github.com/user-attachments/assets/010a79a1-2d66-40e5-bd7e-6eef5e3118d2" />
+
+We now automatically generate chat titles for your tabs:
+
+<img width="996" height="320" alt="CleanShot 2025-11-07 at 14 27 13@2x" src="https://github.com/user-attachments/assets/94131afa-daf6-4f10-80a3-69cf1ef63b9e" />
+
+We’ve also removed some unnecessary GitHub API usage (to avoid hitting rate limits) and improved autoscrolling in chats. 
+
+Improvements: 
+
+- We now use Gemini to generate a chat title based on your first message. To disable, pick "Strict data privacy” in Settings → General.
+- Add toggle buttons for the left sidebar
+- Add Codex thinking levels
+- Chains of empty directories are now squashed together in the file tree
+- Show when PRs are awaiting manual review
+- Improved TODO tool rendering
+- Revamped command palette UI
+
+Fixes: 
+
+- Fixed unclear Claude Code installation UX
+- Fixed incorrect `Unable to merge` statuses in the UI
+- Fixed terminal text wrapping being lossy
+- Improved turn rendering logic
+
 # Checkpoints 
 _0.19.0_ - _0.19.1_
 Nov 5th, 2025 

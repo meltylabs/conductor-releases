@@ -1,3 +1,25 @@
+# Plan mode 
+
+<img width="2048" height="1499" alt="image" src="https://github.com/user-attachments/assets/a021e5e6-ea79-48ce-926d-8d487a028f3b" />
+
+We’ve also added GPT-5-Codex Mini, and brought back Opus 4.1. 
+
+<img width="560" height="616" alt="image" src="https://github.com/user-attachments/assets/c948e4f7-c9e5-4483-8b72-dba1f5cf4f59" />
+
+Improvements: 
+
+- Add animation for chat titles
+- Add archive on merge setting
+- Add a copy path button and `⌘⇧C` shortcut
+- Added back Opus 4.1
+
+Fixes: 
+
+- Fix Linear attachments being sent to the wrong chat
+- Fix file paths with slugs not rendering properly
+- Recent files in the file picker are now scoped to the repository
+
+
 # File picker and chat titles 
 _0.20.0_
 Nov 7th, 2025

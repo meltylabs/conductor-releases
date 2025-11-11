@@ -1,4 +1,6 @@
 # Plan mode 
+_0.21.0_
+Nov 10th, 2025 
 
 <img width="2048" height="1499" alt="image" src="https://github.com/user-attachments/assets/a021e5e6-ea79-48ce-926d-8d487a028f3b" />
 
@@ -11,7 +13,6 @@ Improvements:
 - Add animation for chat titles
 - Add archive on merge setting
 - Add a copy path button and `⌘⇧C` shortcut
-- Added back Opus 4.1
 
 Fixes: 
 

@@ -1,3 +1,26 @@
+# Code Review and Historical Diffs
+
+<img width="1510" height="738" alt="image" src="https://github.com/user-attachments/assets/2604e5a2-0a1b-4e44-be0d-49416fb19ee6" />
+
+Click the “Review” button in the right sidebar to get the AI to review changes. 
+
+<img width="2048" height="1638" alt="image" src="https://github.com/user-attachments/assets/ef8e1202-7657-4674-9437-95465b440953" />
+
+You can now view turn-by-turn diffs for each message in the chat.
+
+<img width="1424" height="1450" alt="image" src="https://github.com/user-attachments/assets/5781358b-14f4-4858-933d-b6aa55ad5389" />
+
+Improvements: 
+
+- Add `⌘.` shortcut to activate Zen mode
+- Show when chat compaction starts
+
+Fixes: 
+
+- Fix a git timestamp parsing error that would crash Conductor
+- Fix buttons in the Composer sending the message draft on click
+- Fix vertical scrolling in the dispatcher
+
 # Plan mode 
 _0.21.0_
 Nov 10th, 2025 

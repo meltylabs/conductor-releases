@@ -1,3 +1,19 @@
+# GPT-5.1
+_0.22.1_ 
+Nov 14th, 2025 
+
+OpenAI's latest model is now available in Conductor. 
+
+<img width="474" height="352" alt="image" src="https://github.com/user-attachments/assets/cebf23c7-1ed2-48a8-9914-8e3d20bcf7e6" />
+
+Sub-agent tool calls will now be neatly nested in the chat. 
+
+<img width="1582" height="698" alt="image" src="https://github.com/user-attachments/assets/55afad27-22b0-4c83-bec8-38a6523da614" />
+
+Improvements: 
+
+- Close tabs with middle mouse click
+
 # Code Review and Historical Diffs
 _0.22.0_
 Nov 12th, 2025 

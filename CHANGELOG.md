@@ -2,7 +2,9 @@
 _0.22.2_ 
 Nov 17th, 2025 
 
-You can now cancel Codex while it’s working. 
+You can now cancel Codex while it’s working (ESC)
+
+<img width="1352" height="472" alt="CleanShot 2025-11-17 at 13 38 41@2x" src="https://github.com/user-attachments/assets/653fafc8-d734-4850-a45a-d65ebebc6241" />
 
 Improvements: 
 

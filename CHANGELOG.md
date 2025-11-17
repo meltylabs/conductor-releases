@@ -1,3 +1,19 @@
+# Codex Cancellation
+_0.22.2_ 
+Nov 17th, 2025 
+
+You can now cancel Codex while it’s working. 
+
+Improvements: 
+
+- Claude Code now comes bundled with Conductor
+- Reduced bundle size to ~124MB
+
+Fixes: 
+
+- Fixed the loading indicator disappearing while the AI was still responding
+- Improved logging
+
 # GPT-5.1
 _0.22.1_ 
 Nov 14th, 2025 

@@ -1,5 +1,5 @@
 # Codex Cancellation 
-_0.22.2_ 
+_0.22.2_ - _0.22.3_ 
 Nov 17th, 2025 
 
 You can now cancel Codex while it’s working (ESC) and we've reduced bundle size from 225MB to ~124MB.

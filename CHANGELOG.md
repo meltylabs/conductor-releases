@@ -1,7 +1,7 @@
 # Expand Terminal, Env Vars, and GitHub Enterprise
 _0.22.4_
 
-You can now use expand the terminal to full height. Try Gemini 3 via the [gemini cli](https://github.com/google-gemini/gemini-cli):
+You can now expand the terminal to full height. Try Gemini 3 via the [gemini cli](https://github.com/google-gemini/gemini-cli):
 
 <img width="2048" height="1373" alt="image" src="https://github.com/user-attachments/assets/a070a527-3c35-4763-a58e-b75235882554" />
 

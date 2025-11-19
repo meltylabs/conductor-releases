@@ -1,5 +1,27 @@
-# Expand Terminal, Env Vars, and GitHub Enterprise
-_0.22.4_
+# GPT 5.1 Codex Max, Improved Diff Viewer 
+_0.22.5_ 
+Nov 19th, 2025 
+
+OpenAI’s latest agentic coding model is now available in Conductor. 
+
+<img width="596" height="246" alt="image" src="https://github.com/user-attachments/assets/8d5f0c7a-2e05-4663-b25e-a4ac65bd74f9" />
+
+We’ve also given the diff viewer a face lift! 
+
+<img width="2048" height="1593" alt="image" src="https://github.com/user-attachments/assets/4008e446-986f-4a57-abb9-7babf8fd142c" />
+
+Improvements: 
+
+- Make cancellation more obvious in the Composer
+- Show when third-party services (Anthropic, GitHub) are having outages in Conductor.
+
+Fixes:
+
+- Fix parts of the Composer being unclickable
+
+# Expand Terminal, Env Vars, and GitHub Enterprise 
+_0.22.4_ 
+Nov 18th, 2025 
 
 You can now expand the terminal to full height. Try Gemini 3 via the [gemini cli](https://github.com/google-gemini/gemini-cli):
 

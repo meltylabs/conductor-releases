@@ -1,3 +1,33 @@
+# Expand Terminal, Env Vars, and GitHub Enterprise
+_0.22.4_
+
+You can now use expand the terminal to full height. Try Gemini 3 via the [gemini cli](https://github.com/google-gemini/gemini-cli):
+
+<img width="2048" height="1373" alt="image" src="https://github.com/user-attachments/assets/a070a527-3c35-4763-a58e-b75235882554" />
+
+You can also now set env variables in Claude Code’s environment in `Settings` → `Env`. This is useful for [configuring third-party providers](https://docs.conductor.build/guides/providers) or providing Claude with specific env values.
+
+<img width="1718" height="960" alt="image" src="https://github.com/user-attachments/assets/402cb134-94d3-4010-8ded-35de9869d7bf" />
+
+If you’ve previously set a provider in the `Settings` → `Provider` tab, we automatically migrate your env variables to the new `Env` section.
+
+We’ve also added incremental expansion to our diff viewer:
+
+<img width="1454" height="338" alt="image" src="https://github.com/user-attachments/assets/7536bf9a-7008-47b9-a1da-4733a2dd1912" />
+
+Improvements: 
+
+- Support for GitHub enterprise login
+- Expand terminal to full screen
+- Add more PR template locations (`./pull_request_template.md`,
+`.github/pull_request_template.md`,
+`docs/pull_request_template.md` )
+
+Fixes:
+
+- Sidebar background color fix
+
+
 # Codex Cancellation 
 _0.22.2_ - _0.22.3_ 
 Nov 17th, 2025 

@@ -1,3 +1,24 @@
+# Conversation Summaries, Codex Diffs, and Custom Review Models
+_0.22.6_ 
+Nov 20th, 2025 
+
+You can now attach a summary of your previous chats in new tabs. 
+
+<img width="1018" height="316" alt="image" src="https://github.com/user-attachments/assets/6ebca22f-7ea4-4408-af65-a4d8d96477da" />
+
+Conductor now shows Codex’s changes after each turn. 
+
+<img width="1452" height="1240" alt="image" src="https://github.com/user-attachments/assets/945cb1fe-4a19-4325-88ef-5f7ef06a3c5a" />
+
+Also, select your default model and thinking level for reviews. 
+
+<img width="1520" height="1376" alt="image" src="https://github.com/user-attachments/assets/1ea3a260-a233-4876-be07-319aac3c79d1" />
+
+Fixes: 
+
+- Fix the retry button
+- Prevent the escape key from cancelling the agent while editing the branch name
+
 # GPT 5.1 Codex Max, Improved Diff Viewer 
 _0.22.5_ 
 Nov 19th, 2025 

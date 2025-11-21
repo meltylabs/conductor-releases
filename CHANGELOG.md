@@ -1,3 +1,15 @@
+# Send Plans to New Chats 
+_0.22.7_
+
+You can now copy a plan from Claude Code or send it to a new chat for implementation. 
+
+<img width="1778" height="1478" alt="image" src="https://github.com/user-attachments/assets/b20dea11-2f90-4cbd-88fa-30d16938fd50" />
+
+Fixes: 
+
+- Fixed Claude Code installations for new users
+
+
 # Conversation Summaries, Codex Diffs, and Custom Review Models
 _0.22.6_ 
 Nov 20th, 2025 

@@ -1,5 +1,18 @@
+# Onboarding Improvements 
+_0.22.8_
+Nov 22nd, 2025 
+
+<img width="2048" height="1516" alt="image" src="https://github.com/user-attachments/assets/5108e6f4-5401-48ef-80e9-2f3e6f3113ef" />
+
+We’ve improved onboarding for new users to help reduce setup failures. 
+
+Fixes: 
+
+- Improved logging
+  
 # Send Plans to New Chats 
 _0.22.7_
+Nov 21th, 2025 
 
 You can now copy a plan from Claude Code or send it to a new chat for implementation. 
 

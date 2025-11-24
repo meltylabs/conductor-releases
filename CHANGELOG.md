@@ -1,3 +1,13 @@
+# Opus 4.5 Bug Fixes 
+_0.23.1_ 
+Nov 24th, 2025 
+
+Opus is now the default model in Conductor. 
+
+We’ve also fixed a bug where the plans Claude was generating weren’t populating in the UI. 
+
+We’ve implemented a workaround, but the problem is a bug in the Claude Agent SDK. Please upvote this [issue for Anthropic to make a proper fix](https://github.com/anthropics/claude-code/issues/12288)!
+
 # Opus 4.5 and Better Scrolling 
 _0.23.0_ 
 Nov 24th, 2025 

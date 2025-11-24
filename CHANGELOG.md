@@ -2,11 +2,11 @@
 _0.23.0_ 
 Nov 24th, 2025 
 
-Opus 4.5 is now available in Conductor! 
+Opus 4.5 is now available in Conductor!
 
-<img width="470" height="272" alt="image" src="https://github.com/user-attachments/assets/5c985474-7eff-4eaf-bbae-3482336ae22a" />
+<img width="584" height="340" alt="CleanShot 2025-11-24 at 12 23 23@2x" src="https://github.com/user-attachments/assets/64c98865-795b-4ff0-8a26-48725051b727" />
 
-We’ve also made scrolling much smoother. 
+We’ve also made scrolling much smoother and more reliable.
 
 ![scrolling](https://github.com/user-attachments/assets/b069d0ab-1a9f-4aa5-bbe4-934d54aa9229)
 

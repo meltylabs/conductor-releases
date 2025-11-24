@@ -1,3 +1,32 @@
+# Opus 4.5 and Better Scrolling 
+_0.23.0_ 
+Nov 24th, 2025 
+
+Opus 4.5 is now available in Conductor! 
+
+<img width="470" height="272" alt="image" src="https://github.com/user-attachments/assets/5c985474-7eff-4eaf-bbae-3482336ae22a" />
+
+We’ve also made scrolling much smoother. 
+
+![scrolling](https://github.com/user-attachments/assets/b069d0ab-1a9f-4aa5-bbe4-934d54aa9229)
+
+Improvements:
+
+- Subagent calls now show the prompt given to the subagent
+- The shortcuts help menu (cmd+?) now has more shortcuts
+
+Fixes: 
+
+- Fix a bug where Codex struggled to read attachments
+- Remove broken terminal shortcuts (cmd+t, cmd+w)
+- Fixed a bug where the thinking button would hide the MCP button
+- Fix an issue where switching between workspaces would not reset the commits shown in the sidebar
+- Removed lines no longer show inline highlights in the diff viewer
+
+Misc: 
+
+- Visual cleanups in the diff viewer, left sidebar, chat input, thinking menu, and elsewhere
+
 # Onboarding Improvements 
 _0.22.8_
 Nov 22nd, 2025 

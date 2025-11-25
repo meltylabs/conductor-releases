@@ -1,3 +1,15 @@
+# Checkpointing Fixes 
+_0.23.2_ 
+Nov 25th, 2025 
+
+We’ve fixed a bug where reverting a chat would result in an error code 1. This was due to an undocumented breaking change in the Anthropic Agent SDK. 
+
+Fixes: 
+
+- Fixed a bug where new workspaces would occasionally start from an old git commit
+- Fixed the app crashing when navigating to the Linear tab while not authenticated
+- Fixed diffs for renamed files not showing correctly
+
 # Opus 4.5 Bug Fixes 
 _0.23.1_ 
 Nov 24th, 2025 

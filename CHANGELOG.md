@@ -1,8 +1,12 @@
-# Repo Dialog 
+# Repo Details 
 _0.23.3_ 
-Nov 26th, 2025 
+Nov 26th, 2025
 
-We’ve revamped the repository dialog, and added support for viewing archived workspaces on a per repo basis. 
+We've revamped the repo details view. You can now browse and restore archived workspaces from there.
+
+Hover over a repo name and click the settings icon to get started.
+
+We removed the old archived workspaces view.
 
 <img width="1522" height="1084" alt="CleanShot 2025-11-26 at 12 11 14@2x" src="https://github.com/user-attachments/assets/9c6575a1-b3f1-4561-b7a7-6cd1b52f917d" /> 
 

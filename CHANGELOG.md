@@ -1,3 +1,23 @@
+# Repo Dialog 
+_0.23.3_ 
+Nov 26th, 2025 
+
+We’ve revamped the repository dialog, and added support for viewing archived workspaces on a per repo basis. 
+
+<img width="1522" height="1084" alt="CleanShot 2025-11-26 at 12 11 14@2x" src="https://github.com/user-attachments/assets/9c6575a1-b3f1-4561-b7a7-6cd1b52f917d" /> 
+
+Improvements: 
+
+- Conductor will now ask for confirmation before closing a chat tab that’s running
+
+Fixes: 
+
+- Fix git panel actions sometimes being sent to the wrong workspace
+- Fix redirection after archiving a workspace
+- Fix notification sounds not playing when the app isn’t focused
+- Fix long user messages not wrapping in the chat
+- Fix overflows in the settings dialog
+
 # Checkpointing Fixes 
 _0.23.2_ 
 Nov 25th, 2025 

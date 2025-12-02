@@ -1,3 +1,46 @@
+# Improved Codex + Quick Start
+_0.24.0-0.24.1_
+Dec 2nd, 2025
+
+We’ve improved Codex in Conductor: bash command render live, web search is enabled, and MCPs appear in the UI. 
+
+We’ve also added an option to create repositories from within Conductor. Quick start creates a new repo and pushes it to GitHub.
+
+<img width="1030" height="838" alt="image" src="https://github.com/user-attachments/assets/a6d19085-480a-454e-8eb1-5b45f03de6ae" />
+
+We’ve also made the settings page fullscreen, and made the tabs clearer and easier to navigate. 
+
+<img width="2048" height="1220" alt="image" src="https://github.com/user-attachments/assets/66cb317e-b878-47d1-9551-c3b4b9955fbb" />
+
+Improvements: 
+
+- New workspaces now show the file tree by default. They will automatically switch to show changed files once files are modified.
+- Added the workspace branch name to macOS notifications
+- Added previews for text attachments
+- Added a toggle to show session cost in the top bar when using an API key
+- Added back the scroll to bottom button
+- Added undo toast when archiving workspaces
+- Detect default branch automatically for Quick Start repos
+- Open in XCode now uses `xed`
+- Add Sourcetree to apps list
+- Various Codex chat UI improvements
+    - Bash commands render as soon as they start running
+    - Remove unnecessary prefixes in bash commands
+    - Failing bash commands no longer show as empty errors
+    - Show MCP tool calls in the chat
+    - Enabled web search
+
+Fixes: 
+
+- Added a warning when you upload an image larger than 5MB to Claude Code chats (Claude Code will crash on large images)
+- Fixed a bug where the incorrect workspace would occasionally be archived
+- Fixed agent icon being incorrect in the chat tab history popover
+- Invalid slash commands now show an error
+- Fixed the “Create workspace from” button not working on the home page
+- Fixed Claude Code downloads not working for some users
+- Fix PR search to use GitHub search API
+
+
 # Repo Details 
 _0.23.3_ 
 Nov 26th, 2025

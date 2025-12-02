@@ -1,4 +1,4 @@
-# Improved Codex + Quick Start
+# Improved Codex, Quick Start
 _0.24.0-0.24.1_
 Dec 2nd, 2025
 
@@ -11,6 +11,11 @@ We’ve also added an option to create repositories from within Conductor. Quick
 We’ve also made the settings page fullscreen, and made the tabs clearer and easier to navigate. 
 
 <img width="2048" height="1220" alt="image" src="https://github.com/user-attachments/assets/66cb317e-b878-47d1-9551-c3b4b9955fbb" />
+
+And we've made fuzzy search more flexible:
+
+<img width="408" height="234" alt="image" src="https://github.com/user-attachments/assets/5d415c46-c420-4c12-a81d-ba4e55bebb18" />
+
 
 Improvements: 
 

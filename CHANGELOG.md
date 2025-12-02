@@ -135,7 +135,7 @@ Fixes:
   
 # Send Plans to New Chats 
 _0.22.7_
-Nov 21th, 2025 
+Nov 21st, 2025 
 
 You can now copy a plan from Claude Code or send it to a new chat for implementation. 
 
@@ -1501,7 +1501,7 @@ Misc:
 
 # Bugfixes
 _0.2.2_ - _0.2.4_
-July 31th, 2025
+July 31st, 2025
 
 We're experimenting with automatically collapsing Claude's responses. Long chats should also now be much more performant. 
 

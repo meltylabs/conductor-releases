@@ -1,3 +1,40 @@
+# Workspace Storage Improvements, AI Response Metadata, and Slash Commands
+_0.25.0_
+Dec 3rd, 2025
+
+Workspaces will now be created at `~/conductor/workspaces/` instead of `.conductor`. This means no more need to add `.conductor` to gitignore or exclude it from your build tools, and will help prevent the agents from getting confused about where to edit files.
+
+(This change will apply for any new repo you add to Conductor going forward. Nothing will change for existing repos.)
+
+You’ll now see metadata below each AI response, including how long it took, a button to copy the response as markdown, and a list of changed files. 
+
+<img width="1784" height="364" alt="image" src="https://github.com/user-attachments/assets/fb9f3af5-65da-416b-8122-61b1a5fa31e7" />
+
+Claude Code’s default slash commands now work in Conductor! Commands installed via Plugins work as well. MCP server statuses will also now appear before sending a message. 
+
+<img width="486" height="293" alt="image" src="https://github.com/user-attachments/assets/4f405ab0-2584-49a5-876e-bf20ade3ff20" />
+
+Improvements:
+
+- Added a button to copy file contents when viewing files and diffs
+- We’ve improved fuzzy search for slash commands
+- Improved switch visibility in dark mode
+- Improved rendering of Claude Code Skills in the chat
+
+Fixes:
+
+- Only show ⌘N shortcut tooltip on the selected repository
+- Fixed the archive button incorrectly having a loading state when other workspaces were archiving
+- The target branch is now explicitly mentioned in the AI’s instructions for creating PRs
+- Fixed port recognition when URLs wrapped across lines in the terminal
+- Fixed arrows opening in the wrong direction when expanding collapsed changes
+
+Misc: 
+
+- Increased default toast duration from 5 → 10 seconds
+- Removed the “Open In” button from the new workspace screen
+- Converted settings from a dialog to a proper page
+
 # Improved Codex, Quick Start
 _0.24.0-0.24.1_
 Dec 2nd, 2025

@@ -1,3 +1,23 @@
+# Conductor Wrapped
+_0.25.1_ 
+Dec 4th, 2025 
+
+Introducing Conductor Wrapped! See a summary of how you used Conductor throughout the year. 
+
+<img width="634" height="660" alt="image" src="https://github.com/user-attachments/assets/c2f0d4a3-68d7-44f0-9517-203c64ea20e7" /> 
+
+Improvements:
+
+- Added Codex Extra High reasoning
+- Improved error message for Claude Code login failures
+
+Fixes:
+
+- Fixed a bug where Claude Code slash commands would appear in Codex chats
+- Fixed a bug where slash command auto-complete suggestions could be duplicated
+- Removed noisy typing animation for branch names
+- Fixed a broken link in the MCP status dropdown 
+
 # Workspace Storage Improvements, AI Response Metadata, and Slash Commands
 _0.25.0_
 Dec 3rd, 2025

@@ -1,3 +1,25 @@
+# Bug Fixes
+
+_0.25.2_ 
+Dec 4th, 2025
+
+We’ve discovered a bug in the Claude Agent SDK that prevents MCPs in `.mcp.json` from being picked up by Claude. Please [upvote this issue for Anthropic to make a proper fix](https://github.com/anthropics/claude-code/issues/13107)! 
+
+Improvements: 
+
+- Added back the `/clear` command
+- Improved rendering of slash commands in the chat
+
+Fixes:
+
+- Fixed a bug in workspace creation that should result in faster creation times
+- Improved slash command auto-complete suggestions
+- Fixed diff comments sometimes disappearing while writing drafts
+- Fixed the merge button not working on repositories that didn’t support squash merges
+- Fixed the Composer not visually updating after approving a plan
+- Truncated large numbers of file changes in AI message summaries
+- Hide educational tooltips from new users
+
 # Conductor Wrapped
 _0.25.1_ 
 Dec 4th, 2025 

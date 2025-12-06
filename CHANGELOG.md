@@ -100,6 +100,7 @@ Misc:
 - Increased default toast duration from 5 → 10 seconds
 - Removed the “Open In” button from the new workspace screen
 - Converted settings from a dialog to a proper page
+- Changed shortcut to close settings page from "Esc" to "Cmd + Esc"
 
 # Improved Codex, Quick Start
 _0.24.0-0.24.1_

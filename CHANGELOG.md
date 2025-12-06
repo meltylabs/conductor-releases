@@ -12,7 +12,7 @@ Improvements:
 - Upload images over 5mb
 - Closed tabs can now be added as contexts in new sessions
 - New DMG image
-- Add Gwangju to cities list (if you have a city you’d like us to add, [tweet about it and tag @conductor_build](https://x.com/nbashaw/status/1997195238599995403)
+- Add Gwangju to cities list. If you have a city you’d like us to add, [tweet about it and tag @conductor_build](https://x.com/nbashaw/status/1997195238599995403)!
 
 Fixes:
 

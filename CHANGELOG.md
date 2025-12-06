@@ -1,4 +1,28 @@
-# Bug Fixes
+# Pinned workspaces
+*0.25.3*
+Dec 5th, 2025
+
+You can now pin workspaces! Use pins to keep your most important workspaces at the top.
+
+<img width="736" height="214" alt="image" src="https://github.com/user-attachments/assets/29cab87f-d1ab-4b97-8695-704a2884693c" />
+
+
+Improvements:
+
+- Upload images over 5mb
+- Closed tabs can now be added as contexts in new sessions
+- New DMG image
+- Add Gwangju to cities list (if you have a city you’d like us to add, let us know humans@conductor.build)
+
+Fixes:
+
+- Fix git branch prefix not applying to new workspaces
+- Plan mode rendering fixes
+- Fix tiny icon shift in sidebar
+- Remove phantom notifications from archived workspaces
+
+  
+# Bug fixes
 
 _0.25.2_ 
 Dec 4th, 2025

@@ -1,9 +1,11 @@
 # Sync PR Comments from GitHub
 
-_0.25.4* 
+_0.25.4_ 
 Dec 8th, 2025 
 
-You can now sync PR comments from GitHub into Conductor! 
+You can now sync PR comments from GitHub to Conductor! 
+
+<img width="922" height="230" alt="CleanShot 2025-12-08 at 15 41 04@2x" src="https://github.com/user-attachments/assets/95838254-75d3-4254-b8bb-57e3f36fb7fc" />
 
 Improvements:
 

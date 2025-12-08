@@ -1,3 +1,24 @@
+# Sync PR Comments from GitHub
+
+_0.25.4* 
+Dec 8th, 2025 
+
+You can now sync PR comments from GitHub into Conductor! 
+
+Improvements:
+
+- Added an “Export to new chat” button to recover chats from Claude Code errors
+- We now prompt you to confirm before quitting the app if an agent is running
+- Added a button to test notification sounds (Settings → Chat)
+- New markdown rendering option (Settings → Chat)
+- More cities for you to discover!
+
+Fixes:
+
+- Improved performance when there are many file changes
+- The “refresh” button is now more prominent for files
+- Fixed messages incorrectly showing as revertible
+
 # Pinned workspaces
 *0.25.3*
 Dec 5th, 2025

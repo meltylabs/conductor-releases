@@ -1,5 +1,23 @@
-# Sync PR Comments from GitHub
+# Approve Plans with Feedback, Performance Improvements
+_0.25.5_
+Dec 9th, 2025
 
+You can now approve a plan with feedback for Claude:
+
+<img width="1140" height="720" alt="image" src="https://github.com/user-attachments/assets/ca5fb1df-ccec-493a-ae1e-cd88f2a6f840" />
+
+Improvements: 
+
+- Added gh auth support for personal access tokens
+- Improved archiving from the command palette (try `⌘K!`)
+- Improved performance for large file trees
+
+Fixes: 
+
+- Fixed layout issues on the settings page
+
+
+# Sync PR Comments from GitHub
 _0.25.4_ 
 Dec 8th, 2025 
 
@@ -25,7 +43,7 @@ Fixes:
 - The “refresh” button is now more prominent for files
 - Fixed messages incorrectly showing as revertible
 
-# Pinned workspaces
+# Pinned Workspaces
 *0.25.3*
 Dec 5th, 2025
 
@@ -49,7 +67,7 @@ Fixes:
 - Remove phantom notifications from archived workspaces
 
   
-# Bug fixes
+# Bug Fixes
 
 _0.25.2_ 
 Dec 4th, 2025

@@ -7,6 +7,10 @@ You can now sync PR comments from GitHub to Conductor!
 
 <img width="922" height="230" alt="CleanShot 2025-12-08 at 15 41 04@2x" src="https://github.com/user-attachments/assets/95838254-75d3-4254-b8bb-57e3f36fb7fc" />
 
+You can also toggle Tufte markdown rendering:
+
+<img width="3480" height="2464" alt="CleanShot 2025-12-09 at 10 45 05@2x" src="https://github.com/user-attachments/assets/b406113e-9e8e-4385-bdc8-7b68a5b1e95e" />
+
 Improvements:
 
 - Added an “Export to new chat” button to recover chats from Claude Code errors

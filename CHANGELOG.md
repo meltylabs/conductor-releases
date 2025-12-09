@@ -14,9 +14,7 @@ We've also added login with `GH_TOKEN`. If Conductor has had trouble detecting y
 
 Improvements: 
 
-- Added gh auth support for personal access tokens
 - Improved archiving from the command palette (try `⌘K!`)
-- Improved performance for large file trees
 
 Fixes: 
 

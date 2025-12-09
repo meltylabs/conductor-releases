@@ -1,4 +1,4 @@
-# Approve Plans with Feedback, Perf Improvements, GH_TOKEN
+# Approve Plans with Feedback, Perf Improvements, GH_TOKEN Support
 _0.25.5_
 Dec 9th, 2025
 

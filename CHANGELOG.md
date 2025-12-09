@@ -1,10 +1,16 @@
-# Approve Plans with Feedback, Performance Improvements
+# Approve Plans with Feedback, Perf Improvements, GH_TOKEN
 _0.25.5_
 Dec 9th, 2025
 
 You can now approve a plan with feedback for Claude:
 
 <img width="1140" height="720" alt="image" src="https://github.com/user-attachments/assets/ca5fb1df-ccec-493a-ae1e-cd88f2a6f840" />
+
+We've also improved performance for repos with large file trees. 
+
+We've also added login with `GH_TOKEN`. If Conductor has had trouble detecting your `gh` status, try pasting your `GH_TOKEN`:
+
+<img width="1428" height="516" alt="CleanShot 2025-12-09 at 11 22 37@2x" src="https://github.com/user-attachments/assets/6b2bc5e6-04a8-44c7-a3f1-2fb37183e009" />
 
 Improvements: 
 

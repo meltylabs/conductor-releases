@@ -1,3 +1,24 @@
+# Multiple Git Repos, Fork Workspaces
+_0.25.6_ 
+Dec 10th, 2025 
+
+You can now run `/add-dir` to let Claude edit workspaces across multiple repositories. 
+
+<img width="1134" height="720" alt="image" src="https://github.com/user-attachments/assets/17c63402-f153-45b0-982f-08f923522203" />
+
+You can also fork a workspace. Doing so will create a new workspace with the changes up to that fork point, and a summary of your chat. 
+
+<img width="1422" height="208" alt="image" src="https://github.com/user-attachments/assets/6c4d7832-3916-423a-a661-72524db5c578" />
+
+Improvements: 
+
+- Auto-resize images with >8k pixel dimensions to prevent Claude Code errors
+- Improved the chat scrollbar click target
+
+Fixes: 
+
+- Fixed the Tufte markdown style not applying when viewing changed files
+
 # Approve Plans with Feedback, Perf Improvements, GH_TOKEN Support
 _0.25.5_
 Dec 9th, 2025

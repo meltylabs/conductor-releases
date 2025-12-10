@@ -4,7 +4,7 @@ Dec 9th, 2025
 
 You can now approve a plan with feedback for Claude:
 
-<img width="1140" height="720" alt="image" src="https://github.com/user-attachments/assets/ca5fb1df-ccec-493a-ae1e-cd88f2a6f840" />
+<img width="1140" height="720" alt="image" src="https://github.com/user-attachments/assets/91e73804-4c34-48b7-8959-b7089220cecf" />
 
 We've also improved performance for repos with large file trees. 
 

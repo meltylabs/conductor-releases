@@ -1,3 +1,21 @@
+# .env Bug Fix, Vercel CI Status Checks
+_0.25.7_ 
+Dec 11th, 2025 
+
+Thanks to a fix this morning from Anthropic, environment variables stored in a workspace’s `.env` file (such as `ANTHROPIC_API_KEY`) will no longer be picked up by Claude. 
+
+Also, failing Vercel CI jobs will now appear in Conductor with a link to view the logs. 
+
+<img width="896" height="74" alt="image" src="https://github.com/user-attachments/assets/90109963-1ee9-4bd5-8f04-93c6fab628cd" /> 
+
+Improvements: 
+
+- Improved error suggestion for OAuth timeouts. If you run into an OAuth token expired issue, try running `claude setup-token`!
+
+Fixes: 
+
+- Workspace creation will succeed even if we can’t pull in latest changes from remote
+
 # Multiple Git Repos, Fork Workspaces
 _0.25.6_ 
 Dec 10th, 2025 

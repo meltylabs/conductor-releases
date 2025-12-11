@@ -14,7 +14,8 @@ Improvements:
 
 Fixes: 
 
-- Workspace creation will succeed even if we can’t pull in latest changes from remote
+- Workspace creation will succeed even if we can’t pull in latest changes from remote 
+- Fixed costs sometimes showing incorrectly in the top bar 
 
 # Multiple Git Repos, Fork Workspaces
 _0.25.6_ 

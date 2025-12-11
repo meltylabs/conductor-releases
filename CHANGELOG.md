@@ -1,3 +1,21 @@
+# GPT-5.2
+_0.25.8_ 
+Dec 11th, 2025 
+
+OpenAI's latest frontier model is now available in Conductor! 
+
+<img width="472" height="274" alt="image" src="https://github.com/user-attachments/assets/55c5394f-cfb6-44bd-87e8-ba27c3d7a023" />
+
+Improvements: 
+
+- The review button is now more obvious
+- Improved rendering when Claude is checking background process status
+
+Fixes: 
+
+- Reverted scrollbar click target changes that affected resizing panels
+- Fixed costs sometimes showing incorrectly in the top bar
+
 # .env Bug Fix, Vercel CI Status Checks
 _0.25.7_ 
 Dec 11th, 2025 

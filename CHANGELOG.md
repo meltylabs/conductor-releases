@@ -1,3 +1,18 @@
+# Onboarding Bug Fixes
+_0.25.8_ 
+Dec 11th, 2025 
+
+We’ve fixed a bug that broke onboarding for users who weren’t authenticated with Claude Code or Codex. 
+
+Improvements: 
+
+- Added more western US cities!
+- Standardized copy buttons throughout the app
+
+Fixes: 
+
+- Fixed Claude Code account detection logic in onboarding
+
 # GPT-5.2
 _0.25.8_ 
 Dec 11th, 2025 

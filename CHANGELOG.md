@@ -1,5 +1,5 @@
 # Onboarding Bug Fixes
-_0.25.8_ 
+_0.25.9_ 
 Dec 11th, 2025 
 
 We’ve fixed a bug that broke onboarding for users who weren’t authenticated with Claude Code or Codex. 

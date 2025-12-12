@@ -1,3 +1,22 @@
+# Onboarding Bug Fixes 
+_0.25.10_ 
+Dec 12th, 2025 
+
+We’ve fixed a bug where agents would occasionally hang without responding. 
+
+Also, thanks to a recent fix from Anthropic, MCPs stored in `.mcp.json` files will now be recognized by Claude in Conductor! 
+
+Improvements: 
+
+- Conductor now comes bundled with Claude Code!
+- Failing PR status checks will now appear when a branch is still awaiting a mandatory PR review
+- Standardized all checkmarks to gray
+
+Fixes: 
+
+- Fixed the Open In button failing for some users
+- Fixed a “Failed to save token” error in onboarding
+
 # Onboarding Bug Fixes
 _0.25.9_ 
 Dec 11th, 2025 

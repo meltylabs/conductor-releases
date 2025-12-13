@@ -1,3 +1,32 @@
+# Fetch Comments from GitHub, Mark Workspaces as Unread
+_0.25.11_ 
+Dec 13th, 2025 
+
+Fetch comments from GitHub in one click when changes are requested on your PR! 
+
+<img width="862" height="72" alt="image" src="https://github.com/user-attachments/assets/326a54db-735e-4591-b893-959cace0c218" />
+
+You can also now mark workspaces as unread! 
+
+<img width="660" height="272" alt="image" src="https://github.com/user-attachments/assets/42a38686-f552-4493-84c4-3a7bf7156f5f" />
+
+Improvements: 
+
+- You can now search by PR number in the command palette (`⌘K`)
+- Simpler message duration formatting
+- We’ve reorganized the Settings page. It should take fewer clicks to find the most relevant settings!
+
+Fixes: 
+
+- Fixed environment variables not being cleared when unset in settings
+- Fixed visual issues with loading animations
+- Removed hover state CSS transitions. Hovering should feel snappier throughout the app.
+- Fixed `/add-dir` sometimes not running
+- Fixed resolved comments not being filtered when fetching comments from GitHub
+- Fixed slash commands not getting processed when sent as the first message in a chat or when thinking was enabled
+- The revert button will now only show when it will succeed
+- Better unicode support in Mermaid diagrams
+
 # Bug Fixes 
 _0.25.10_ 
 Dec 12th, 2025 

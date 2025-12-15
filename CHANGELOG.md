@@ -1,3 +1,22 @@
+# Bug Fixes
+
+*0.25.12* 
+Dec 15th, 2025 
+
+We now bundle the GitHub CLI with Conductor. If you’ve had issues authenticating with GitHub in the past, this should help!
+
+Improvements: 
+
+- Added a max width for chats
+- Improved archiving UI: expanded dialog and added tooltips for full branch names
+
+Fixes: 
+
+- Fixed $CONDUCTOR environment variables (port, workspace path, etc) not being picked up by Claude Code and Codex
+- Gracefully handle repos that have been deleted on disk
+- Fixed session picker eyebrow icon showing Claude Code icons for Codex sessions
+- Fixed issues with Codex API Key not always being picked up
+
 # Fetch Comments from GitHub, Mark Workspaces as Unread
 _0.25.11_ 
 Dec 13th, 2025 

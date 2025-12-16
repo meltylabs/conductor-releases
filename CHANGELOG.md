@@ -1,6 +1,24 @@
-# Bug Fixes
+# Performance Improvements
+_0.25.13_ 
+Dec 16th, 2025 
 
-*0.25.12* 
+We’ve made several performance improvements to the Composer to reduce input lag. We’ve also re-written fuzzy search. It should be up to 10x faster on larger codebases. 
+
+Improvements: 
+
+- Added Antigravity to the Open In menu
+
+Fixes: 
+
+- Performance improvements to the Composer
+    - Fixed a bug where pasting inputs with `@` characters would cause flickering and input lag
+    - Fixed unnecessary re-renders slowing down queries
+    - We’ve re-written fuzzy search. It should be up to 10x faster on larger codebases.
+- Claude Code MCP servers are now hidden when using Codex
+- Fixed diffs showing incorrectly when using plan mode
+
+# Bug Fixes
+_0.25.12_ 
 Dec 15th, 2025 
 
 We now bundle the GitHub CLI with Conductor. If you’ve had issues authenticating with GitHub in the past, this should help!

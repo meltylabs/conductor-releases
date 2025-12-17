@@ -1,3 +1,30 @@
+# Search Workspaces, View Files from Chat 
+_0.26.0_ 
+Dec 17th, 2025 
+
+You can now search for workspaces by their branch name, repo, or PR number (⌘⇧F).
+
+<img width="2048" height="1320" alt="image" src="https://github.com/user-attachments/assets/632ab731-231f-42f0-b0a2-120dfd0433ce" /> 
+
+You can also click on any file path the agent mentions to view it in Conductor! 
+
+<img width="1416" height="200" alt="image" src="https://github.com/user-attachments/assets/beb5225b-2b8b-4fb5-89ad-163cff34f6e1" /> 
+
+We’ve also added xhigh reasoning for GPT-5.2! 
+
+<img width="456" height="98" alt="image" src="https://github.com/user-attachments/assets/a269d43e-c84a-4e5b-bb9d-d639fc80a025" /> 
+
+Improvements: 
+
+- Added an index to code review instructions to make referencing issues easier
+- Added a sub agent icon to the tool use summary
+
+Fixes: 
+
+- Fixed flicker when closing chat tabs
+- Indentation in user messages is now preserved
+- Fixed terminals being shut down only after files were deleted in a workspace
+
 # Performance Improvements
 _0.25.13_ 
 Dec 16th, 2025 

@@ -1,3 +1,32 @@
+# Notes Tab
+_0.27.0_ 
+Dec 18th, 2025 
+
+Each workspace now has a scratchpad. Share notes with agents using `@notes`. 
+
+<img width="2048" height="1317" alt="image" src="https://github.com/user-attachments/assets/f4b04768-fe04-4ccb-89f6-aa651df5dfc3" /> 
+
+OpenAI’s latest frontier coding model is now available in Conductor! 
+
+<img width="472" height="280" alt="image" src="https://github.com/user-attachments/assets/43cfb6e5-b3eb-421b-a5b3-db27fe7cbeaf" /> 
+
+Also, you can now customize the monospace font under Settings → Appearance. 
+
+<img width="1212" height="620" alt="image" src="https://github.com/user-attachments/assets/fdd3ff4a-75ff-4c7a-bfac-13453ab2839f" /> 
+
+Improvements: 
+
+- Added [Fork](https://fork.dev) to the Open In menu
+- Improved OAuth error token error message
+- You can now manually remove a comment that was imported from GitHub
+
+Fixes:
+
+- Fixed some jank with renaming branches
+- Fixed rendering errors with Mermaid diagrams
+- Fixed a bug when forking chats that would drop files that were both tracked and ignored
+- Fixed a race condition where messages could occasionally get sent to Claude twice
+
 # Search Workspaces, View Files from Chat 
 _0.26.0_ 
 Dec 17th, 2025 

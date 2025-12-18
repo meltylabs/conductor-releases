@@ -18,6 +18,7 @@ Improvements:
 
 - Added an index to code review instructions to make referencing issues easier
 - Added a sub agent icon to the tool use summary
+- Added PR # to the left sidebar 
 
 Fixes: 
 

@@ -1,4 +1,4 @@
-# Notes Tab
+# Notes Tab, GPT-5.2-Codex, More Fonts 
 _0.27.0_ 
 Dec 18th, 2025 
 
